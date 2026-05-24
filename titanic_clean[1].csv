@@ -1,0 +1,892 @@
+passenger_id,survived,pclass,name,sex,age,siblings_spouses,parents_children,ticket,fare,cabin,embarked,family_size,is_alone,age_group,fare_band,cabin_known
+1,0,3,Passenger_1,male,16.26,0,0,T2908,33.6606,Unknown,S,1,1,Teen,High,0
+2,1,3,Passenger_2,male,71.26,1,0,T31358,64.5141,Unknown,Q,2,0,Senior,Very High,0
+3,1,2,Passenger_3,female,23.28,0,0,T31412,71.81,C140,S,1,1,YoungAdult,Very High,1
+4,0,3,Passenger_4,female,29.68,0,0,T84710,80.7405,Unknown,S,1,1,YoungAdult,Very High,0
+5,0,1,Passenger_5,male,5.02,0,0,T82032,3.1889,C157,C,1,1,Child,Low,1
+6,0,2,Passenger_6,male,9.28,0,5,T3928,25.1372,Unknown,S,6,0,Child,High,0
+7,0,3,Passenger_7,male,41.46,0,0,T66158,43.1691,C114,S,1,1,MiddleAged,High,1
+8,1,1,Passenger_8,male,21.7,8,0,T31632,45.2606,C61,S,9,0,YoungAdult,Very High,1
+9,0,1,Passenger_9,male,66.9,0,0,T33309,29.8632,Unknown,S,1,1,Senior,High,0
+10,1,1,Passenger_10,female,1.57,0,0,T10280,5.8389,Unknown,S,1,1,Child,Low,0
+11,0,1,Passenger_11,male,30.58,0,0,T41449,51.0919,Unknown,S,1,1,YoungAdult,Very High,0
+12,1,1,Passenger_12,female,27.25,0,2,T88171,40.7476,Unknown,S,3,0,YoungAdult,High,0
+13,1,3,Passenger_13,male,40.21,0,1,T27957,2.8823,Unknown,Q,2,0,MiddleAged,Low,0
+14,0,2,Passenger_14,male,10.3,3,0,T37895,19.9445,C70,C,4,0,Child,Medium,1
+15,0,3,Passenger_15,female,33.33,1,0,T71499,6.1163,Unknown,S,2,0,YoungAdult,Low,0
+16,0,3,Passenger_16,male,39.63,1,0,T94057,13.1744,C80,S,2,0,MiddleAged,Medium,1
+17,0,2,Passenger_17,male,32.58,5,0,T99151,0.5839,C79,S,6,0,YoungAdult,Low,1
+18,0,2,Passenger_18,male,42.66,0,0,T22695,16.364,Unknown,Q,1,1,MiddleAged,Medium,0
+19,0,2,Passenger_19,female,47.77,0,0,T75893,25.5435,C117,S,1,1,MiddleAged,High,1
+20,0,3,Passenger_20,female,1.19,0,4,T64123,30.9276,Unknown,S,5,0,Child,High,0
+21,0,2,Passenger_21,male,37.34,0,0,T26176,34.8521,C140,C,1,1,MiddleAged,High,1
+22,0,3,Passenger_22,male,77.09,0,0,T19409,57.9093,Unknown,Q,1,1,Senior,Very High,0
+23,0,2,Passenger_23,male,41.71,0,1,T57967,7.7652,Unknown,S,2,0,MiddleAged,Low,0
+24,0,3,Passenger_24,female,54.33,0,0,T1987,4.1082,Unknown,S,1,1,MiddleAged,Low,0
+25,0,2,Passenger_25,female,38.97,0,0,T55462,61.0375,Unknown,S,1,1,MiddleAged,Very High,0
+26,1,2,Passenger_26,male,44.07,0,0,T68501,5.4505,Unknown,S,1,1,MiddleAged,Low,0
+27,0,3,Passenger_27,male,61.92,0,0,T97854,117.7385,Unknown,S,1,1,Senior,Very High,0
+28,0,3,Passenger_28,male,40.21,0,1,T27015,59.1543,Unknown,S,2,0,MiddleAged,Very High,0
+29,0,1,Passenger_29,female,78.09,0,0,T95727,22.2369,C154,S,1,1,Senior,High,1
+30,0,3,Passenger_30,female,10.39,0,1,T67404,127.5439,Unknown,S,2,0,Child,Very High,0
+31,0,3,Passenger_31,male,1.75,1,0,T51281,3.2784,Unknown,S,2,0,Child,Low,0
+32,0,3,Passenger_32,male,61.7,0,0,T38146,11.5541,Unknown,S,1,1,Senior,Medium,0
+33,0,3,Passenger_33,male,64.65,0,1,T49231,32.5354,Unknown,S,2,0,Senior,High,0
+34,1,2,Passenger_34,female,9.97,1,0,T30032,13.7854,C71,C,2,0,Child,Medium,1
+35,1,1,Passenger_35,male,21.54,0,0,T29305,84.3609,Unknown,S,1,1,YoungAdult,Very High,0
+36,1,2,Passenger_36,female,1.8,0,0,T55306,2.1721,Unknown,S,1,1,Child,Low,0
+37,0,3,Passenger_37,male,40.21,1,0,T89176,25.5104,Unknown,S,2,0,MiddleAged,High,0
+38,0,3,Passenger_38,male,61.94,0,0,T19318,28.5988,Unknown,S,1,1,Senior,High,0
+39,1,2,Passenger_39,male,44.07,1,0,T14246,33.8447,C132,S,2,0,MiddleAged,High,1
+40,0,1,Passenger_40,male,28.11,1,0,T34844,9.4485,Unknown,C,2,0,YoungAdult,Medium,0
+41,0,3,Passenger_41,male,29.99,0,0,T33602,14.5103,C34,S,1,1,YoungAdult,Medium,1
+42,0,3,Passenger_42,female,46.62,0,2,T22584,59.3873,Unknown,S,3,0,MiddleAged,Very High,0
+43,0,3,Passenger_43,male,24.26,0,0,T16169,6.9389,C41,S,1,1,YoungAdult,Low,1
+44,1,1,Passenger_44,male,51.86,0,1,T26968,56.1184,Unknown,S,2,0,MiddleAged,Very High,0
+45,0,2,Passenger_45,male,77.95,0,0,T7385,26.4651,C21,Q,1,1,Senior,High,1
+46,1,1,Passenger_46,female,67.83,0,0,T74758,45.9607,C72,S,1,1,Senior,Very High,1
+47,0,3,Passenger_47,female,2.28,0,1,T26444,40.0125,C86,S,2,0,Child,High,1
+48,0,1,Passenger_48,male,40.11,0,0,T63497,7.4425,Unknown,S,1,1,MiddleAged,Low,0
+49,0,3,Passenger_49,female,62.74,0,0,T6362,26.9188,Unknown,S,1,1,Senior,High,0
+50,0,2,Passenger_50,male,62.52,0,0,T9250,64.7315,Unknown,S,1,1,Senior,Very High,0
+51,1,3,Passenger_51,male,36.86,0,0,T69354,18.1068,Unknown,C,1,1,MiddleAged,Medium,0
+52,1,3,Passenger_52,female,46.62,1,0,T37368,108.7655,Unknown,C,2,0,MiddleAged,Very High,0
+53,1,3,Passenger_53,female,24.51,0,0,T45109,19.2599,Unknown,S,1,1,YoungAdult,Medium,0
+54,1,1,Passenger_54,female,5.63,0,1,T81589,4.9302,Unknown,S,2,0,Child,Low,0
+55,0,1,Passenger_55,male,18.57,2,0,T58645,15.7878,Unknown,S,3,0,YoungAdult,Medium,0
+56,1,1,Passenger_56,male,40.11,0,2,T57997,96.972,Unknown,S,3,0,MiddleAged,Very High,0
+57,0,3,Passenger_57,female,38.93,0,2,T28426,12.3281,Unknown,S,3,0,MiddleAged,Medium,0
+58,0,3,Passenger_58,male,59.9,0,0,T40023,64.8223,Unknown,S,1,1,MiddleAged,Very High,0
+59,0,3,Passenger_59,male,38.12,0,0,T60267,68.1837,Unknown,C,1,1,MiddleAged,Very High,0
+60,0,3,Passenger_60,male,5.0,0,2,T25892,13.7942,Unknown,S,3,0,Child,Medium,0
+61,0,3,Passenger_61,male,76.64,0,2,T60232,2.7817,Unknown,S,3,0,Senior,Low,0
+62,0,1,Passenger_62,male,75.44,0,0,T95897,41.2601,C30,C,1,1,Senior,High,1
+63,1,3,Passenger_63,female,46.62,1,0,T60225,11.9443,C193,S,2,0,MiddleAged,Medium,1
+64,0,2,Passenger_64,male,79.31,0,0,T17007,48.8802,C114,S,1,1,Senior,Very High,1
+65,0,2,Passenger_65,male,43.74,0,0,T80777,18.7063,C75,S,1,1,MiddleAged,Medium,1
+66,0,3,Passenger_66,male,77.04,1,0,T45858,21.2514,Unknown,S,2,0,Senior,Medium,0
+67,0,1,Passenger_67,female,6.42,0,0,T46073,48.1494,Unknown,S,1,1,Child,Very High,0
+68,1,1,Passenger_68,male,40.11,1,0,T90438,15.4194,Unknown,S,2,0,MiddleAged,Medium,0
+69,0,3,Passenger_69,male,18.34,0,0,T91042,18.7334,Unknown,S,1,1,YoungAdult,Medium,0
+70,1,1,Passenger_70,female,15.99,1,0,T84098,15.1011,Unknown,S,2,0,Teen,Medium,0
+71,1,3,Passenger_71,female,46.62,0,0,T21239,14.6503,Unknown,Q,1,1,MiddleAged,Medium,0
+72,0,2,Passenger_72,female,49.94,1,0,T63969,23.8859,Unknown,S,2,0,MiddleAged,High,0
+73,0,2,Passenger_73,female,62.59,1,0,T14065,52.9418,Unknown,S,2,0,Senior,Very High,0
+74,1,2,Passenger_74,male,44.07,0,0,T42291,14.3697,C84,S,1,1,MiddleAged,Medium,1
+75,1,2,Passenger_75,female,12.1,0,0,T39805,23.7719,Unknown,S,1,1,Teen,High,0
+76,1,3,Passenger_76,male,64.97,0,0,T99831,35.5478,Unknown,S,1,1,Senior,High,0
+77,1,2,Passenger_77,female,51.02,0,2,T19443,10.0462,Unknown,S,3,0,MiddleAged,Medium,0
+78,0,3,Passenger_78,female,31.3,0,0,T10290,10.4022,Unknown,S,1,1,YoungAdult,Medium,0
+79,0,3,Passenger_79,female,54.06,0,0,T1211,86.6959,Unknown,S,1,1,MiddleAged,Very High,0
+80,0,3,Passenger_80,female,21.09,0,0,T84634,41.1414,C72,C,1,1,YoungAdult,High,1
+81,1,3,Passenger_81,male,27.88,0,3,T20072,27.5464,Unknown,S,4,0,YoungAdult,High,0
+82,1,3,Passenger_82,male,40.21,0,0,T44290,33.3865,Unknown,S,1,1,MiddleAged,High,0
+83,0,1,Passenger_83,female,23.52,0,0,T86186,0.9516,Unknown,S,1,1,YoungAdult,Low,0
+84,0,1,Passenger_84,female,37.81,0,0,T16115,30.8033,Unknown,C,1,1,MiddleAged,High,0
+85,0,2,Passenger_85,male,71.26,0,0,T6149,22.7951,C133,S,1,1,Senior,High,1
+86,0,3,Passenger_86,male,56.73,0,0,T42992,25.2514,Unknown,S,1,1,MiddleAged,High,0
+87,1,1,Passenger_87,male,5.35,0,0,T18716,14.2524,Unknown,Q,1,1,Child,Medium,0
+88,1,3,Passenger_88,female,12.13,0,0,T98724,2.7195,C24,S,1,1,Teen,Low,1
+89,1,3,Passenger_89,female,1.02,0,0,T14621,6.8753,C51,S,1,1,Child,Low,1
+90,0,2,Passenger_90,male,44.07,0,0,T7820,96.3436,Unknown,S,1,1,MiddleAged,Very High,0
+91,0,3,Passenger_91,male,40.21,1,0,T43800,16.8138,Unknown,C,2,0,MiddleAged,Medium,0
+92,1,1,Passenger_92,female,11.09,0,1,T56043,20.1165,Unknown,S,2,0,Child,Medium,0
+93,1,1,Passenger_93,female,76.65,0,0,T31399,1.7328,Unknown,C,1,1,Senior,Low,0
+94,0,3,Passenger_94,male,42.56,0,1,T15002,1.2253,Unknown,S,2,0,MiddleAged,Low,0
+95,1,3,Passenger_95,male,19.65,1,0,T44098,40.4144,C123,S,2,0,YoungAdult,High,1
+96,0,3,Passenger_96,male,40.25,2,0,T46511,24.7166,Unknown,S,3,0,MiddleAged,High,0
+97,0,2,Passenger_97,male,54.5,0,0,T54243,22.7428,C45,C,1,1,MiddleAged,High,1
+98,0,2,Passenger_98,male,6.47,0,2,T29750,8.9138,Unknown,S,3,0,Child,Low,0
+99,0,3,Passenger_99,female,46.62,1,0,T92610,43.6965,Unknown,S,2,0,MiddleAged,High,0
+100,0,3,Passenger_100,female,46.62,0,0,T18310,5.8946,Unknown,S,1,1,MiddleAged,Low,0
+101,0,3,Passenger_101,male,36.99,0,0,T56398,6.7405,C128,C,1,1,MiddleAged,Low,1
+102,1,2,Passenger_102,female,43.91,0,0,T83542,19.7602,C104,S,1,1,MiddleAged,Medium,1
+103,0,3,Passenger_103,male,34.85,0,0,T76207,10.7925,Unknown,S,1,1,YoungAdult,Medium,0
+104,0,2,Passenger_104,male,44.07,2,0,T45345,9.0978,Unknown,S,3,0,MiddleAged,Low,0
+105,1,1,Passenger_105,male,40.11,8,0,T94430,33.1618,Unknown,Q,9,0,MiddleAged,High,0
+106,0,3,Passenger_106,male,35.87,1,0,T92729,33.6833,C77,C,2,0,MiddleAged,High,1
+107,0,1,Passenger_107,female,17.05,0,0,T52843,55.6868,C159,S,1,1,Teen,Very High,1
+108,1,3,Passenger_108,female,46.62,1,0,T11222,17.3051,Unknown,S,2,0,MiddleAged,Medium,0
+109,0,2,Passenger_109,male,67.55,0,0,T90322,2.4286,Unknown,S,1,1,Senior,Low,0
+110,0,1,Passenger_110,male,40.11,0,0,T32509,10.2319,Unknown,Q,1,1,MiddleAged,Medium,0
+111,0,3,Passenger_111,female,63.53,1,0,T1386,125.1935,Unknown,S,2,0,Senior,Very High,0
+112,0,3,Passenger_112,male,68.36,0,0,T65334,29.0234,Unknown,S,1,1,Senior,High,0
+113,1,3,Passenger_113,male,40.21,0,2,T68170,39.583,Unknown,S,3,0,MiddleAged,High,0
+114,1,3,Passenger_114,female,76.87,0,2,T41878,0.2363,C12,Q,3,0,Senior,Low,1
+115,1,3,Passenger_115,male,16.08,1,1,T70669,23.3676,Unknown,S,3,0,Teen,High,0
+116,1,3,Passenger_116,male,76.13,0,0,T39349,1.224,C83,S,1,1,Senior,Low,1
+117,1,3,Passenger_117,male,79.59,0,0,T22952,26.9498,Unknown,C,1,1,Senior,High,0
+118,0,2,Passenger_118,female,38.97,0,0,T91352,81.1332,Unknown,S,1,1,MiddleAged,Very High,0
+119,1,3,Passenger_119,male,78.5,1,0,T22529,110.5665,Unknown,S,2,0,Senior,Very High,0
+120,0,1,Passenger_120,male,45.74,1,0,T72303,24.8874,Unknown,Q,2,0,MiddleAged,High,0
+121,1,3,Passenger_121,female,21.06,0,1,T42521,19.6118,Unknown,Q,2,0,YoungAdult,Medium,0
+122,1,3,Passenger_122,male,35.18,0,1,T19383,92.8235,Unknown,C,2,0,MiddleAged,Very High,0
+123,0,1,Passenger_123,female,47.65,0,1,T5901,35.8292,Unknown,S,2,0,MiddleAged,High,0
+124,0,3,Passenger_124,male,6.22,4,0,T43889,2.1472,Unknown,S,5,0,Child,Low,0
+125,0,3,Passenger_125,female,46.62,0,0,T15633,20.0591,Unknown,Q,1,1,MiddleAged,Medium,0
+126,0,1,Passenger_126,male,40.11,2,0,T63244,8.7923,Unknown,S,3,0,MiddleAged,Low,0
+127,1,3,Passenger_127,male,15.53,0,0,T20163,20.3043,Unknown,C,1,1,Teen,Medium,0
+128,1,3,Passenger_128,male,63.49,1,0,T60019,19.4504,Unknown,Q,2,0,Senior,Medium,0
+129,0,1,Passenger_129,male,72.67,1,0,T11707,27.9239,Unknown,S,2,0,Senior,High,0
+130,0,3,Passenger_130,female,75.52,1,0,T89112,14.1201,Unknown,C,2,0,Senior,Medium,0
+131,0,2,Passenger_131,female,76.83,3,0,T84597,5.7424,C99,C,4,0,Senior,Low,1
+132,0,3,Passenger_132,male,40.21,0,0,T46101,22.4196,Unknown,S,1,1,MiddleAged,High,0
+133,0,3,Passenger_133,male,78.19,0,1,T45706,56.7408,Unknown,S,2,0,Senior,Very High,0
+134,0,3,Passenger_134,female,60.68,0,0,T78084,34.9018,Unknown,S,1,1,Senior,High,0
+135,1,3,Passenger_135,female,13.27,1,1,T16115,13.2175,C191,S,3,0,Teen,Medium,1
+136,0,3,Passenger_136,male,38.36,0,0,T76379,20.331400000000002,C180,S,1,1,MiddleAged,Medium,1
+137,0,3,Passenger_137,male,57.58,0,0,T40979,77.849,Unknown,S,1,1,MiddleAged,Very High,0
+138,1,2,Passenger_138,male,20.09,0,0,T41641,7.5167,Unknown,C,1,1,YoungAdult,Low,0
+139,0,3,Passenger_139,female,51.39,0,0,T70377,1.2869,Unknown,Q,1,1,MiddleAged,Low,0
+140,1,1,Passenger_140,male,53.46,0,4,T7416,43.2678,Unknown,S,5,0,MiddleAged,High,0
+141,1,3,Passenger_141,male,13.35,0,0,T11633,56.2559,Unknown,S,1,1,Teen,Very High,0
+142,0,1,Passenger_142,male,45.38,1,0,T1594,110.0095,Unknown,S,2,0,MiddleAged,Very High,0
+143,0,1,Passenger_143,female,61.82,0,0,T15393,70.5852,Unknown,Q,1,1,Senior,Very High,0
+144,0,1,Passenger_144,male,40.11,0,2,T36380,29.3641,C82,S,3,0,MiddleAged,High,1
+145,0,3,Passenger_145,male,1.36,0,0,T46056,24.1643,Unknown,S,1,1,Child,High,0
+146,0,2,Passenger_146,male,1.12,0,0,T89279,0.9036,Unknown,Q,1,1,Child,Low,0
+147,0,3,Passenger_147,male,40.21,1,0,T98507,9.0635,Unknown,S,2,0,MiddleAged,Low,0
+148,0,1,Passenger_148,male,74.13,1,0,T5861,19.6951,Unknown,C,2,0,Senior,Medium,0
+149,0,2,Passenger_149,male,18.6,0,0,T37126,31.6869,Unknown,Q,1,1,YoungAdult,High,0
+150,0,3,Passenger_150,male,50.9,1,0,T81382,26.0721,Unknown,Q,2,0,MiddleAged,High,0
+151,1,3,Passenger_151,male,18.08,1,0,T92713,43.4324,Unknown,S,2,0,YoungAdult,High,0
+152,0,2,Passenger_152,male,26.0,1,1,T34682,10.5018,C126,S,3,0,YoungAdult,Medium,1
+153,0,3,Passenger_153,female,67.9,0,0,T19228,26.6336,C94,C,1,1,Senior,High,1
+154,0,3,Passenger_154,female,46.62,3,0,T25009,2.9527,Unknown,S,4,0,MiddleAged,Low,0
+155,1,3,Passenger_155,male,7.99,0,0,T1094,17.0837,Unknown,S,1,1,Child,Medium,0
+156,0,1,Passenger_156,female,34.52,0,0,T81636,44.382,Unknown,S,1,1,YoungAdult,High,0
+157,1,1,Passenger_157,male,2.72,0,0,T53221,37.8309,Unknown,S,1,1,Child,High,0
+158,1,3,Passenger_158,male,38.68,0,0,T99453,149.4913,Unknown,S,1,1,MiddleAged,Very High,0
+159,0,1,Passenger_159,male,53.13,0,0,T18430,10.4185,Unknown,S,1,1,MiddleAged,Medium,0
+160,1,3,Passenger_160,male,40.21,0,0,T36571,22.065,Unknown,S,1,1,MiddleAged,High,0
+161,0,3,Passenger_161,female,23.4,0,0,T55486,12.7929,C132,S,1,1,YoungAdult,Medium,1
+162,1,3,Passenger_162,female,32.07,1,0,T91510,18.5887,Unknown,S,2,0,YoungAdult,Medium,0
+163,1,3,Passenger_163,female,46.62,1,0,T97665,62.226,C70,S,2,0,MiddleAged,Very High,1
+164,0,3,Passenger_164,male,40.21,0,0,T63294,36.8856,Unknown,S,1,1,MiddleAged,High,0
+165,0,2,Passenger_165,male,44.07,1,0,T21860,68.5061,Unknown,S,2,0,MiddleAged,Very High,0
+166,1,3,Passenger_166,male,60.98,1,2,T73812,7.2813,Unknown,S,4,0,Senior,Low,0
+167,0,2,Passenger_167,male,44.07,1,1,T67087,66.1253,Unknown,S,3,0,MiddleAged,Very High,0
+168,0,3,Passenger_168,male,31.64,0,0,T9486,1.9719,Unknown,S,1,1,YoungAdult,Low,0
+169,0,3,Passenger_169,male,60.44,1,0,T84063,70.2279,Unknown,S,2,0,Senior,Very High,0
+170,0,3,Passenger_170,male,73.51,2,1,T50607,12.7711,Unknown,S,4,0,Senior,Medium,0
+171,1,3,Passenger_171,male,76.09,1,1,T10745,12.0875,Unknown,S,3,0,Senior,Medium,0
+172,0,3,Passenger_172,female,46.34,0,1,T79533,22.9639,Unknown,S,2,0,MiddleAged,High,0
+173,0,2,Passenger_173,female,28.83,0,0,T19330,90.3994,C142,S,1,1,YoungAdult,Very High,1
+174,0,2,Passenger_174,female,63.09,0,0,T41078,1.5667,Unknown,Q,1,1,Senior,Low,0
+175,1,3,Passenger_175,male,20.38,0,1,T56332,13.8951,Unknown,S,2,0,YoungAdult,Medium,0
+176,0,1,Passenger_176,male,45.3,0,0,T55532,62.1415,Unknown,Q,1,1,MiddleAged,Very High,0
+177,1,1,Passenger_177,male,28.94,0,0,T91365,16.1367,Unknown,S,1,1,YoungAdult,Medium,0
+178,0,2,Passenger_178,female,52.67,1,0,T44336,7.1069,Unknown,S,2,0,MiddleAged,Low,0
+179,1,2,Passenger_179,male,19.54,1,0,T9070,17.6969,Unknown,S,2,0,YoungAdult,Medium,0
+180,0,2,Passenger_180,male,44.07,0,0,T2320,15.585,Unknown,S,1,1,MiddleAged,Medium,0
+181,0,1,Passenger_181,female,33.06,3,0,T90043,79.0404,Unknown,S,4,0,YoungAdult,Very High,0
+182,0,1,Passenger_182,male,8.5,0,0,T39921,45.9267,Unknown,S,1,1,Child,Very High,0
+183,1,1,Passenger_183,male,40.67,0,0,T7589,22.5098,Unknown,S,1,1,MiddleAged,High,0
+184,1,3,Passenger_184,male,17.98,1,0,T65409,142.5349,Unknown,S,2,0,Teen,Very High,0
+185,0,2,Passenger_185,male,3.5,1,0,T93995,20.0322,Unknown,C,2,0,Child,Medium,0
+186,1,2,Passenger_186,male,3.27,2,0,T16589,1.9201,Unknown,S,3,0,Child,Low,0
+187,1,3,Passenger_187,male,14.35,0,0,T37375,9.7339,Unknown,C,1,1,Teen,Medium,0
+188,0,1,Passenger_188,male,69.39,1,1,T44085,18.3304,Unknown,S,3,0,Senior,Medium,0
+189,0,3,Passenger_189,male,22.89,0,0,T61840,5.4615,Unknown,S,1,1,YoungAdult,Low,0
+190,0,3,Passenger_190,female,76.06,1,0,T44200,94.3419,Unknown,S,2,0,Senior,Very High,0
+191,0,1,Passenger_191,male,46.7,1,0,T99704,46.5942,Unknown,S,2,0,MiddleAged,Very High,0
+192,1,2,Passenger_192,male,44.07,0,1,T27732,9.9958,Unknown,S,2,0,MiddleAged,Medium,0
+193,1,3,Passenger_193,male,40.21,0,0,T98047,28.594,Unknown,S,1,1,MiddleAged,High,0
+194,1,3,Passenger_194,female,41.53,1,0,T23426,40.9009,Unknown,S,2,0,MiddleAged,High,0
+195,0,3,Passenger_195,male,60.8,0,0,T31982,90.7186,Unknown,C,1,1,Senior,Very High,0
+196,0,3,Passenger_196,male,22.89,0,0,T60720,68.2875,Unknown,S,1,1,YoungAdult,Very High,0
+197,1,1,Passenger_197,female,33.06,1,1,T17746,23.1681,Unknown,Q,3,0,YoungAdult,High,0
+198,1,3,Passenger_198,female,71.57,0,1,T29514,47.6836,Unknown,Q,2,0,Senior,Very High,0
+199,1,1,Passenger_199,male,75.74,1,0,T65889,26.4277,Unknown,C,2,0,Senior,High,0
+200,1,3,Passenger_200,female,71.45,0,0,T4851,25.7451,Unknown,S,1,1,Senior,High,0
+201,1,3,Passenger_201,male,33.79,0,0,T20796,3.9,Unknown,S,1,1,YoungAdult,Low,0
+202,0,3,Passenger_202,male,62.52,1,0,T77034,4.3146,Unknown,S,2,0,Senior,Low,0
+203,0,3,Passenger_203,male,38.32,0,0,T63798,24.129,Unknown,S,1,1,MiddleAged,High,0
+204,1,1,Passenger_204,male,40.0,0,0,T99388,10.0209,Unknown,S,1,1,MiddleAged,Medium,0
+205,0,1,Passenger_205,female,33.06,1,0,T63985,0.6804,C188,S,2,0,YoungAdult,Low,1
+206,0,1,Passenger_206,male,40.11,0,0,T35592,41.061,Unknown,S,1,1,MiddleAged,High,0
+207,0,1,Passenger_207,male,15.22,0,2,T45845,1.0568,Unknown,S,3,0,Teen,Low,0
+208,1,3,Passenger_208,female,26.79,0,0,T16930,28.9457,Unknown,C,1,1,YoungAdult,High,0
+209,0,2,Passenger_209,female,68.46,1,1,T22159,24.7929,Unknown,S,3,0,Senior,High,0
+210,0,1,Passenger_210,male,16.88,1,0,T96072,110.9699,Unknown,S,2,0,Teen,Very High,0
+211,0,3,Passenger_211,male,6.06,1,0,T90788,21.186,C79,C,2,0,Child,Medium,1
+212,1,3,Passenger_212,male,5.89,0,0,T25003,2.1029,Unknown,S,1,1,Child,Low,0
+213,1,3,Passenger_213,female,75.29,1,0,T36139,25.6725,Unknown,S,2,0,Senior,High,0
+214,0,3,Passenger_214,female,40.75,0,0,T53452,58.8626,Unknown,C,1,1,MiddleAged,Very High,0
+215,1,1,Passenger_215,female,32.99,1,0,T23205,184.324,Unknown,S,2,0,YoungAdult,Very High,0
+216,0,2,Passenger_216,male,64.95,0,6,T97059,18.0071,C190,S,7,0,Senior,Medium,1
+217,0,3,Passenger_217,male,66.93,1,0,T57955,12.3553,Unknown,S,2,0,Senior,Medium,0
+218,1,3,Passenger_218,male,26.84,1,0,T8464,75.8859,Unknown,S,2,0,YoungAdult,Very High,0
+219,1,1,Passenger_219,male,40.11,0,2,T83646,6.7922,Unknown,S,3,0,MiddleAged,Low,0
+220,1,3,Passenger_220,male,61.78,0,0,T73657,30.5801,C50,S,1,1,Senior,High,1
+221,1,1,Passenger_221,female,52.51,1,0,T10840,16.6526,C90,S,2,0,MiddleAged,Medium,1
+222,0,1,Passenger_222,male,40.11,0,0,T41768,1.3424,Unknown,S,1,1,MiddleAged,Low,0
+223,0,3,Passenger_223,male,70.12,3,1,T10461,13.6518,Unknown,C,5,0,Senior,Medium,0
+224,0,3,Passenger_224,female,43.31,0,2,T21927,9.8623,Unknown,S,3,0,MiddleAged,Medium,0
+225,0,3,Passenger_225,male,40.21,0,2,T90934,37.0769,Unknown,C,3,0,MiddleAged,High,0
+226,0,1,Passenger_226,female,34.25,0,0,T99622,95.0986,Unknown,S,1,1,YoungAdult,Very High,0
+227,1,3,Passenger_227,male,3.39,0,1,T16329,9.9853,Unknown,C,2,0,Child,Medium,0
+228,0,2,Passenger_228,male,44.07,2,0,T16791,53.3913,Unknown,S,3,0,MiddleAged,Very High,0
+229,1,1,Passenger_229,male,61.34,0,0,T53627,1.8224,Unknown,S,1,1,Senior,Low,0
+230,1,3,Passenger_230,male,0.4,1,0,T15372,24.7185,C102,S,2,0,Child,High,1
+231,1,3,Passenger_231,female,46.62,0,0,T93890,2.3412,Unknown,C,1,1,MiddleAged,Low,0
+232,0,3,Passenger_232,male,41.99,0,3,T49469,86.9952,Unknown,S,4,0,MiddleAged,Very High,0
+233,0,3,Passenger_233,male,4.75,0,2,T88073,46.526,Unknown,S,3,0,Child,Very High,0
+234,0,3,Passenger_234,male,40.21,0,0,T35370,34.3295,Unknown,S,1,1,MiddleAged,High,0
+235,0,3,Passenger_235,male,40.21,4,0,T52408,55.5738,Unknown,C,5,0,MiddleAged,Very High,0
+236,1,1,Passenger_236,female,24.61,0,0,T91941,33.3683,C35,S,1,1,YoungAdult,High,1
+237,0,2,Passenger_237,male,24.59,0,1,T24703,111.1032,Unknown,S,2,0,YoungAdult,Very High,0
+238,0,2,Passenger_238,female,18.74,0,0,T16234,40.0517,C156,S,1,1,YoungAdult,High,1
+239,1,2,Passenger_239,female,0.52,0,0,T8532,82.7432,Unknown,S,1,1,Child,Very High,0
+240,0,3,Passenger_240,male,58.46,0,0,T36416,23.2964,Unknown,Q,1,1,MiddleAged,High,0
+241,1,3,Passenger_241,female,77.36,1,0,T73439,3.9841,Unknown,C,2,0,Senior,Low,0
+242,1,1,Passenger_242,male,18.25,0,0,T19242,24.0369,Unknown,S,1,1,YoungAdult,High,0
+243,1,1,Passenger_243,male,53.18,0,2,T51254,4.3416,Unknown,S,3,0,MiddleAged,Low,0
+244,0,3,Passenger_244,male,59.45,0,0,T80324,28.7263,C138,C,1,1,MiddleAged,High,1
+245,0,1,Passenger_245,female,33.06,4,0,T36249,21.0794,C17,S,5,0,YoungAdult,Medium,1
+246,1,3,Passenger_246,female,46.62,0,0,T96049,31.1803,C60,Q,1,1,MiddleAged,High,1
+247,0,3,Passenger_247,male,24.51,0,0,T86078,0.3231,Unknown,S,1,1,YoungAdult,Low,0
+248,1,3,Passenger_248,female,26.29,0,2,T33294,6.9349,C34,S,3,0,YoungAdult,Low,1
+249,1,3,Passenger_249,male,57.12,0,0,T60784,21.6306,Unknown,S,1,1,MiddleAged,High,0
+250,1,3,Passenger_250,male,65.42,0,0,T4684,96.1873,Unknown,S,1,1,Senior,Very High,0
+251,0,2,Passenger_251,male,14.86,0,0,T24795,15.484,Unknown,Q,1,1,Teen,Medium,0
+252,0,3,Passenger_252,female,29.93,1,0,T61301,17.6734,Unknown,S,2,0,YoungAdult,Medium,0
+253,1,3,Passenger_253,male,72.19,0,0,T70187,40.1344,Unknown,C,1,1,Senior,High,0
+254,0,2,Passenger_254,male,64.61,1,0,T11431,29.6262,Unknown,S,2,0,Senior,High,0
+255,0,3,Passenger_255,male,78.79,0,0,T76667,11.3645,Unknown,C,1,1,Senior,Medium,0
+256,0,3,Passenger_256,male,60.44,0,0,T90627,16.9286,C21,S,1,1,Senior,Medium,1
+257,1,3,Passenger_257,male,31.7,0,0,T91381,7.8565,Unknown,C,1,1,YoungAdult,Low,0
+258,1,3,Passenger_258,male,47.41,0,0,T91027,108.2248,Unknown,S,1,1,MiddleAged,Very High,0
+259,0,3,Passenger_259,female,53.02,1,0,T56372,4.4797,C80,C,2,0,MiddleAged,Low,1
+260,0,3,Passenger_260,male,6.65,0,0,T71366,14.8786,C26,S,1,1,Child,Medium,1
+261,0,3,Passenger_261,male,43.74,0,1,T95176,0.8377,Unknown,S,2,0,MiddleAged,Low,0
+262,1,3,Passenger_262,male,40.21,0,1,T73870,8.0239,C131,C,2,0,MiddleAged,Low,1
+263,0,3,Passenger_263,female,13.72,5,0,T48387,48.5207,C133,S,6,0,Teen,Very High,1
+264,0,3,Passenger_264,female,62.54,0,0,T53927,7.1876,C19,S,1,1,Senior,Low,1
+265,1,3,Passenger_265,male,46.87,2,0,T10304,2.6704,C40,S,3,0,MiddleAged,Low,1
+266,1,1,Passenger_266,female,76.2,0,0,T18032,20.5861,Unknown,S,1,1,Senior,Medium,0
+267,1,3,Passenger_267,male,3.78,0,1,T92291,0.3206,Unknown,S,2,0,Child,Low,0
+268,1,3,Passenger_268,male,21.52,0,0,T60486,2.8344,Unknown,S,1,1,YoungAdult,Low,0
+269,0,1,Passenger_269,male,48.28,0,0,T66552,52.746,Unknown,S,1,1,MiddleAged,Very High,0
+270,0,3,Passenger_270,male,24.01,0,1,T74844,47.2353,Unknown,S,2,0,YoungAdult,Very High,0
+271,1,1,Passenger_271,male,57.27,0,1,T30654,78.9356,Unknown,S,2,0,MiddleAged,Very High,0
+272,1,2,Passenger_272,female,60.82,1,0,T40244,61.6859,Unknown,C,2,0,Senior,Very High,0
+273,1,3,Passenger_273,female,8.56,1,0,T6942,36.781,Unknown,S,2,0,Child,High,0
+274,1,1,Passenger_274,female,33.06,1,0,T51697,1.7201,Unknown,S,2,0,YoungAdult,Low,0
+275,0,3,Passenger_275,male,40.91,0,0,T3693,48.8691,C89,S,1,1,MiddleAged,Very High,1
+276,0,3,Passenger_276,male,29.79,0,2,T57751,59.7642,Unknown,S,3,0,YoungAdult,Very High,0
+277,1,3,Passenger_277,female,74.66,0,1,T82098,51.3555,Unknown,S,2,0,Senior,Very High,0
+278,1,1,Passenger_278,male,40.11,1,1,T7259,22.728,Unknown,S,3,0,MiddleAged,High,0
+279,1,2,Passenger_279,male,55.9,2,0,T5942,8.4845,Unknown,S,3,0,MiddleAged,Low,0
+280,1,3,Passenger_280,male,57.26,0,1,T48419,59.7268,C42,S,2,0,MiddleAged,Very High,1
+281,1,3,Passenger_281,female,46.62,0,0,T57105,41.5642,Unknown,S,1,1,MiddleAged,High,0
+282,0,3,Passenger_282,male,73.71,0,0,T66907,126.4264,Unknown,C,1,1,Senior,Very High,0
+283,0,2,Passenger_283,male,55.69,0,0,T28383,5.4156,Unknown,S,1,1,MiddleAged,Low,0
+284,0,3,Passenger_284,female,58.43,0,0,T24404,8.184,Unknown,S,1,1,MiddleAged,Low,0
+285,0,3,Passenger_285,male,68.99,0,0,T73656,7.616,Unknown,S,1,1,Senior,Low,0
+286,0,3,Passenger_286,male,40.21,1,0,T6702,50.3301,Unknown,S,2,0,MiddleAged,Very High,0
+287,0,1,Passenger_287,male,64.64,0,0,T74883,6.6211,Unknown,C,1,1,Senior,Low,0
+288,0,3,Passenger_288,male,40.21,0,0,T57332,2.2075,C43,Q,1,1,MiddleAged,Low,1
+289,0,3,Passenger_289,female,27.89,5,0,T40419,209.3975,Unknown,S,6,0,YoungAdult,Very High,0
+290,0,3,Passenger_290,male,27.11,0,0,T91576,0.8042,Unknown,S,1,1,YoungAdult,Low,0
+291,0,2,Passenger_291,male,78.29,0,0,T89078,57.7053,Unknown,S,1,1,Senior,Very High,0
+292,0,3,Passenger_292,female,46.62,0,1,T74844,14.5507,Unknown,C,2,0,MiddleAged,Medium,0
+293,1,3,Passenger_293,female,56.21,0,0,T40242,58.9673,Unknown,Q,1,1,MiddleAged,Very High,0
+294,0,1,Passenger_294,female,58.27,0,0,T35142,25.8825,Unknown,S,1,1,MiddleAged,High,0
+295,0,3,Passenger_295,male,45.14,1,0,T97226,74.209,C174,S,2,0,MiddleAged,Very High,1
+296,0,3,Passenger_296,male,75.79,0,1,T8393,83.4016,Unknown,S,2,0,Senior,Very High,0
+297,1,1,Passenger_297,female,39.9,0,0,T70939,0.2925,C21,S,1,1,MiddleAged,Low,1
+298,0,2,Passenger_298,female,30.69,0,0,T70082,2.509,Unknown,S,1,1,YoungAdult,Low,0
+299,1,3,Passenger_299,male,13.38,0,0,T29893,9.2211,C57,S,1,1,Teen,Medium,1
+300,0,1,Passenger_300,male,62.98,1,0,T10388,35.4109,Unknown,S,2,0,Senior,High,0
+301,0,3,Passenger_301,male,40.21,1,0,T63969,70.1341,Unknown,S,2,0,MiddleAged,Very High,0
+302,0,2,Passenger_302,female,30.99,0,0,T37660,19.7145,Unknown,S,1,1,YoungAdult,Medium,0
+303,0,3,Passenger_303,male,2.41,1,0,T90244,29.8841,C21,S,2,0,Child,High,1
+304,1,1,Passenger_304,male,67.18,0,0,T25726,6.6839,C158,S,1,1,Senior,Low,1
+305,1,3,Passenger_305,male,1.31,4,0,T80544,52.3067,Unknown,S,5,0,Child,Very High,0
+306,1,3,Passenger_306,female,46.62,0,0,T63996,109.4797,Unknown,C,1,1,MiddleAged,Very High,0
+307,0,3,Passenger_307,female,77.63,4,0,T1111,10.0094,Unknown,C,5,0,Senior,Medium,0
+308,0,3,Passenger_308,male,40.21,1,0,T18545,21.8513,Unknown,S,2,0,MiddleAged,High,0
+309,1,1,Passenger_309,female,33.06,0,0,T41168,2.8817,Unknown,S,1,1,YoungAdult,Low,0
+310,0,3,Passenger_310,female,56.51,0,0,T3379,26.2087,C16,S,1,1,MiddleAged,High,1
+311,0,1,Passenger_311,male,40.11,5,0,T96773,22.3593,Unknown,S,6,0,MiddleAged,High,0
+312,0,1,Passenger_312,male,43.9,1,1,T88346,4.9918,Unknown,S,3,0,MiddleAged,Low,0
+313,0,2,Passenger_313,male,44.07,0,2,T42120,18.6725,Unknown,C,3,0,MiddleAged,Medium,0
+314,1,3,Passenger_314,female,4.51,1,0,T18809,13.0119,Unknown,S,2,0,Child,Medium,0
+315,1,3,Passenger_315,male,40.58,0,0,T53813,23.6093,Unknown,Q,1,1,MiddleAged,High,0
+316,1,3,Passenger_316,male,57.59,0,0,T75005,28.1938,Unknown,Q,1,1,MiddleAged,High,0
+317,0,2,Passenger_317,female,69.07,0,1,T28967,0.273,Unknown,C,2,0,Senior,Low,0
+318,0,2,Passenger_318,male,14.67,0,0,T10748,45.8021,C143,S,1,1,Teen,Very High,1
+319,0,3,Passenger_319,female,64.08,1,0,T24424,39.9463,Unknown,S,2,0,Senior,High,0
+320,0,2,Passenger_320,male,44.4,0,1,T87512,14.5971,Unknown,S,2,0,MiddleAged,Medium,0
+321,0,3,Passenger_321,male,31.97,1,0,T24914,1.7404,Unknown,S,2,0,YoungAdult,Low,0
+322,1,1,Passenger_322,female,10.88,0,1,T96603,44.9991,Unknown,S,2,0,Child,High,0
+323,1,3,Passenger_323,female,69.28,0,0,T79478,99.3598,C130,S,1,1,Senior,Very High,1
+324,0,3,Passenger_324,male,12.92,0,0,T20491,8.7884,Unknown,S,1,1,Teen,Low,0
+325,1,1,Passenger_325,female,25.06,0,1,T50454,12.5075,Unknown,Q,2,0,YoungAdult,Medium,0
+326,1,1,Passenger_326,female,23.49,0,0,T71069,6.4996,C41,S,1,1,YoungAdult,Low,1
+327,0,3,Passenger_327,male,69.76,0,0,T52925,27.5274,Unknown,S,1,1,Senior,High,0
+328,0,3,Passenger_328,female,53.95,0,0,T90119,5.3834,Unknown,C,1,1,MiddleAged,Low,0
+329,0,2,Passenger_329,male,63.82,0,2,T38049,14.0914,C78,S,3,0,Senior,Medium,1
+330,0,3,Passenger_330,male,20.34,0,0,T28821,38.2101,C199,S,1,1,YoungAdult,High,1
+331,0,1,Passenger_331,male,50.14,0,0,T96797,26.2798,Unknown,Q,1,1,MiddleAged,High,0
+332,1,2,Passenger_332,female,45.91,1,0,T30945,15.6324,Unknown,C,2,0,MiddleAged,Medium,0
+333,0,3,Passenger_333,female,46.62,1,0,T18384,17.445,Unknown,S,2,0,MiddleAged,Medium,0
+334,0,2,Passenger_334,male,72.52,0,0,T29410,26.4253,Unknown,C,1,1,Senior,High,0
+335,0,3,Passenger_335,male,1.37,0,0,T78734,0.1882,Unknown,S,1,1,Child,Low,0
+336,0,2,Passenger_336,male,54.05,0,0,T64766,2.6164,C193,C,1,1,MiddleAged,Low,1
+337,1,2,Passenger_337,male,4.53,3,2,T95890,68.1857,C33,C,6,0,Child,Very High,1
+338,1,3,Passenger_338,female,44.09,0,0,T8169,2.5945,Unknown,S,1,1,MiddleAged,Low,0
+339,0,2,Passenger_339,female,23.3,0,0,T41129,39.2612,Unknown,S,1,1,YoungAdult,High,0
+340,0,3,Passenger_340,male,24.82,0,0,T98445,80.8386,Unknown,S,1,1,YoungAdult,Very High,0
+341,0,1,Passenger_341,female,28.5,0,0,T4830,10.1007,Unknown,S,1,1,YoungAdult,Medium,0
+342,0,1,Passenger_342,male,49.85,0,2,T57306,14.8101,C152,C,3,0,MiddleAged,Medium,1
+343,0,1,Passenger_343,female,26.99,1,0,T87940,26.9269,Unknown,S,2,0,YoungAdult,High,0
+344,0,3,Passenger_344,female,58.72,0,0,T66267,68.3074,Unknown,C,1,1,MiddleAged,Very High,0
+345,0,2,Passenger_345,male,32.6,0,0,T28757,91.0619,Unknown,C,1,1,YoungAdult,Very High,0
+346,0,3,Passenger_346,male,5.84,0,0,T64867,43.0526,C140,Q,1,1,Child,High,1
+347,1,3,Passenger_347,female,46.62,0,0,T36650,2.8993,C44,C,1,1,MiddleAged,Low,1
+348,0,3,Passenger_348,male,23.15,1,0,T34766,35.3953,C189,S,2,0,YoungAdult,High,1
+349,0,1,Passenger_349,male,40.11,0,0,T82478,16.9007,Unknown,S,1,1,MiddleAged,Medium,0
+350,1,3,Passenger_350,male,54.96,1,0,T33419,20.3585,Unknown,S,2,0,MiddleAged,Medium,0
+351,0,3,Passenger_351,male,26.86,0,0,T17668,1.6127,Unknown,S,1,1,YoungAdult,Low,0
+352,1,3,Passenger_352,male,4.9,0,0,T17246,6.7851,Unknown,S,1,1,Child,Low,0
+353,1,3,Passenger_353,female,30.16,3,3,T25996,50.0191,Unknown,S,7,0,YoungAdult,Very High,0
+354,0,3,Passenger_354,female,75.58,0,0,T52312,19.3619,Unknown,S,1,1,Senior,Medium,0
+355,0,3,Passenger_355,male,51.48,1,0,T4065,11.4897,Unknown,Q,2,0,MiddleAged,Medium,0
+356,1,1,Passenger_356,female,53.85,0,0,T11467,15.5053,Unknown,C,1,1,MiddleAged,Medium,0
+357,0,1,Passenger_357,male,50.73,1,0,T51646,61.6604,Unknown,S,2,0,MiddleAged,Very High,0
+358,0,3,Passenger_358,female,16.24,0,0,T22007,44.2335,Unknown,S,1,1,Teen,High,0
+359,1,3,Passenger_359,female,33.7,0,2,T69079,10.1724,Unknown,S,3,0,YoungAdult,Medium,0
+360,0,3,Passenger_360,male,60.17,1,0,T29702,4.0,Unknown,S,2,0,Senior,Low,0
+361,0,3,Passenger_361,female,8.47,2,2,T95369,9.2912,Unknown,C,5,0,Child,Medium,0
+362,1,1,Passenger_362,male,40.11,1,0,T76569,81.1273,Unknown,S,2,0,MiddleAged,Very High,0
+363,0,1,Passenger_363,male,22.4,1,0,T54952,27.8813,Unknown,S,2,0,YoungAdult,High,0
+364,0,3,Passenger_364,female,34.79,1,2,T59065,24.3986,C126,S,4,0,YoungAdult,High,1
+365,1,2,Passenger_365,male,78.44,0,0,T35169,29.0341,Unknown,S,1,1,Senior,High,0
+366,0,1,Passenger_366,male,40.11,0,2,T17829,14.584,Unknown,S,3,0,MiddleAged,Medium,0
+367,1,3,Passenger_367,male,41.69,0,0,T61135,52.6598,Unknown,S,1,1,MiddleAged,Very High,0
+368,1,1,Passenger_368,female,33.06,0,2,T5522,23.7069,Unknown,S,3,0,YoungAdult,High,0
+369,0,3,Passenger_369,male,77.67,0,0,T86687,3.9726,C67,C,1,1,Senior,Low,1
+370,0,2,Passenger_370,male,9.42,0,0,T36319,4.422,Unknown,C,1,1,Child,Low,0
+371,0,3,Passenger_371,female,32.53,0,0,T27543,24.6312,Unknown,S,1,1,YoungAdult,High,0
+372,0,2,Passenger_372,female,59.14,1,0,T31473,88.2503,Unknown,C,2,0,MiddleAged,Very High,0
+373,0,3,Passenger_373,male,56.48,0,0,T8699,11.7977,Unknown,S,1,1,MiddleAged,Medium,0
+374,1,1,Passenger_374,male,40.11,0,0,T69165,65.1743,Unknown,Q,1,1,MiddleAged,Very High,0
+375,0,1,Passenger_375,male,40.11,0,0,T41455,46.2185,Unknown,S,1,1,MiddleAged,Very High,0
+376,0,2,Passenger_376,male,32.05,1,0,T76692,9.1126,Unknown,S,2,0,YoungAdult,Medium,0
+377,1,3,Passenger_377,male,21.44,1,1,T18441,1.1846,Unknown,S,3,0,YoungAdult,Low,0
+378,0,3,Passenger_378,female,16.74,0,0,T31716,3.4373,C57,S,1,1,Teen,Low,1
+379,1,2,Passenger_379,female,38.97,0,0,T63175,41.7207,C80,S,1,1,MiddleAged,High,1
+380,0,3,Passenger_380,male,21.78,0,0,T7834,7.1274,Unknown,S,1,1,YoungAdult,Low,0
+381,0,3,Passenger_381,male,40.21,0,0,T19179,14.8498,Unknown,S,1,1,MiddleAged,Medium,0
+382,1,3,Passenger_382,female,46.62,0,0,T27219,22.2896,Unknown,S,1,1,MiddleAged,High,0
+383,1,1,Passenger_383,male,77.5,0,0,T16782,41.366,Unknown,Q,1,1,Senior,High,0
+384,1,3,Passenger_384,female,48.45,0,2,T82363,3.8455,Unknown,C,3,0,MiddleAged,Low,0
+385,1,1,Passenger_385,male,40.11,0,1,T75967,16.6878,Unknown,C,2,0,MiddleAged,Medium,0
+386,1,2,Passenger_386,male,6.42,3,0,T10496,21.2394,C82,C,4,0,Child,Medium,1
+387,0,3,Passenger_387,female,46.62,3,0,T89867,24.9065,Unknown,Q,4,0,MiddleAged,High,0
+388,0,1,Passenger_388,male,24.06,0,0,T40238,54.5834,Unknown,S,1,1,YoungAdult,Very High,0
+389,1,3,Passenger_389,female,7.73,0,0,T47025,6.0273,Unknown,S,1,1,Child,Low,0
+390,1,3,Passenger_390,male,40.21,0,0,T60886,52.7802,Unknown,C,1,1,MiddleAged,Very High,0
+391,1,3,Passenger_391,male,50.04,0,0,T24563,37.7764,Unknown,C,1,1,MiddleAged,High,0
+392,0,3,Passenger_392,female,52.02,2,0,T4712,25.9725,Unknown,S,3,0,MiddleAged,High,0
+393,0,1,Passenger_393,male,21.69,0,0,T95067,38.4768,C146,S,1,1,YoungAdult,High,1
+394,1,2,Passenger_394,female,1.6,1,0,T46489,16.9939,Unknown,S,2,0,Child,Medium,0
+395,0,3,Passenger_395,male,40.21,0,1,T33664,4.7668,Unknown,Q,2,0,MiddleAged,Low,0
+396,1,1,Passenger_396,male,40.11,4,0,T13420,35.0692,C182,S,5,0,MiddleAged,High,1
+397,1,2,Passenger_397,female,54.21,0,1,T55610,23.8,Unknown,Q,2,0,MiddleAged,High,0
+398,0,1,Passenger_398,male,56.65,1,4,T6315,32.6373,Unknown,C,6,0,MiddleAged,High,0
+399,1,1,Passenger_399,male,40.11,0,0,T71917,13.1996,Unknown,S,1,1,MiddleAged,Medium,0
+400,1,2,Passenger_400,male,25.31,0,0,T76033,75.9591,Unknown,S,1,1,YoungAdult,Very High,0
+401,0,1,Passenger_401,male,40.11,0,0,T95576,28.3265,Unknown,S,1,1,MiddleAged,High,0
+402,1,3,Passenger_402,male,47.97,0,2,T98911,2.8567,Unknown,S,3,0,MiddleAged,Low,0
+403,0,3,Passenger_403,female,69.34,2,3,T80030,19.1194,C148,S,6,0,Senior,Medium,1
+404,1,3,Passenger_404,female,46.62,2,0,T64910,45.1855,Unknown,C,3,0,MiddleAged,Very High,0
+405,0,1,Passenger_405,female,8.83,1,0,T98288,50.577,Unknown,S,2,0,Child,Very High,0
+406,1,1,Passenger_406,female,12.72,0,1,T61972,21.8368,Unknown,S,2,0,Teen,High,0
+407,0,1,Passenger_407,female,75.6,1,0,T91893,72.0446,C22,S,2,0,Senior,Very High,1
+408,0,3,Passenger_408,female,59.03,0,1,T56919,9.9687,Unknown,Q,2,0,MiddleAged,Medium,0
+409,1,3,Passenger_409,male,70.69,0,2,T83486,16.9167,C94,S,3,0,Senior,Medium,1
+410,0,1,Passenger_410,female,16.53,0,0,T82288,73.2369,Unknown,C,1,1,Teen,Very High,0
+411,0,3,Passenger_411,female,47.17,0,0,T5132,72.5067,Unknown,S,1,1,MiddleAged,Very High,0
+412,1,1,Passenger_412,male,56.21,0,0,T42598,37.0383,Unknown,S,1,1,MiddleAged,High,0
+413,1,3,Passenger_413,male,54.54,0,0,T94812,62.6834,Unknown,S,1,1,MiddleAged,Very High,0
+414,0,3,Passenger_414,male,32.89,0,0,T21551,2.9748,Unknown,S,1,1,YoungAdult,Low,0
+415,1,3,Passenger_415,male,40.21,1,1,T93511,64.0782,Unknown,S,3,0,MiddleAged,Very High,0
+416,0,3,Passenger_416,female,46.8,0,2,T69206,12.3704,Unknown,S,3,0,MiddleAged,Medium,0
+417,0,3,Passenger_417,male,20.55,0,2,T75900,6.2854,Unknown,S,3,0,YoungAdult,Low,0
+418,0,2,Passenger_418,male,36.24,0,0,T27296,8.7555,Unknown,S,1,1,MiddleAged,Low,0
+419,1,3,Passenger_419,female,76.62,0,1,T91216,17.3194,Unknown,S,2,0,Senior,Medium,0
+420,1,1,Passenger_420,male,32.16,0,0,T19066,9.2567,Unknown,C,1,1,YoungAdult,Medium,0
+421,1,3,Passenger_421,male,67.25,0,0,T29892,12.3679,Unknown,S,1,1,Senior,Medium,0
+422,1,3,Passenger_422,male,15.41,0,0,T76577,4.64,C139,S,1,1,Teen,Low,1
+423,0,3,Passenger_423,female,46.62,1,0,T75590,11.2393,Unknown,Q,2,0,MiddleAged,Medium,0
+424,0,3,Passenger_424,female,78.17,0,2,T78173,27.1775,Unknown,C,3,0,Senior,High,0
+425,0,3,Passenger_425,male,8.51,1,0,T77293,18.6603,Unknown,Q,2,0,Child,Medium,0
+426,0,3,Passenger_426,female,1.06,0,0,T65771,13.6239,Unknown,S,1,1,Child,Medium,0
+427,0,3,Passenger_427,male,40.21,0,0,T28484,43.9105,Unknown,C,1,1,MiddleAged,High,0
+428,1,1,Passenger_428,female,7.77,1,0,T78865,71.6705,Unknown,S,2,0,Child,Very High,0
+429,0,1,Passenger_429,female,59.97,0,0,T28115,45.2425,Unknown,S,1,1,MiddleAged,Very High,0
+430,0,2,Passenger_430,female,38.97,0,0,T27038,12.911,Unknown,C,1,1,MiddleAged,Medium,0
+431,0,1,Passenger_431,male,34.95,1,0,T37622,43.6578,C95,S,2,0,YoungAdult,High,1
+432,1,3,Passenger_432,female,20.99,0,0,T36886,5.2752,C56,S,1,1,YoungAdult,Low,1
+433,1,1,Passenger_433,female,34.98,1,1,T52284,4.4681,Unknown,S,3,0,YoungAdult,Low,0
+434,0,3,Passenger_434,male,57.99,0,0,T10901,13.5705,Unknown,C,1,1,MiddleAged,Medium,0
+435,0,2,Passenger_435,female,1.12,1,0,T57377,52.7588,C53,S,2,0,Child,Very High,1
+436,1,1,Passenger_436,male,40.11,0,0,T83910,9.0504,C159,S,1,1,MiddleAged,Low,1
+437,0,3,Passenger_437,female,49.22,0,0,T50862,2.091,Unknown,S,1,1,MiddleAged,Low,0
+438,1,3,Passenger_438,male,51.16,0,0,T33806,4.5193,Unknown,S,1,1,MiddleAged,Low,0
+439,1,3,Passenger_439,female,19.66,0,0,T18659,62.63,C168,Q,1,1,YoungAdult,Very High,1
+440,0,3,Passenger_440,male,40.21,0,2,T24453,32.145,Unknown,S,3,0,MiddleAged,High,0
+441,0,3,Passenger_441,male,40.21,0,0,T31498,9.3427,Unknown,S,1,1,MiddleAged,Medium,0
+442,1,1,Passenger_442,male,16.26,0,1,T71393,25.9311,Unknown,Q,2,0,Teen,High,0
+443,0,3,Passenger_443,male,70.25,0,6,T17312,23.9964,C132,S,7,0,Senior,High,1
+444,0,3,Passenger_444,male,59.2,0,0,T2436,34.0952,C91,S,1,1,MiddleAged,High,1
+445,1,3,Passenger_445,male,1.49,1,0,T28569,8.4964,Unknown,C,2,0,Child,Low,0
+446,1,1,Passenger_446,male,40.11,0,0,T59813,63.9382,Unknown,S,1,1,MiddleAged,Very High,0
+447,1,3,Passenger_447,male,40.21,0,2,T91485,11.8448,Unknown,S,3,0,MiddleAged,Medium,0
+448,1,1,Passenger_448,male,21.96,0,2,T74229,37.9072,C155,S,3,0,YoungAdult,High,1
+449,0,1,Passenger_449,female,20.11,0,0,T46986,0.5202,Unknown,C,1,1,YoungAdult,Low,0
+450,0,2,Passenger_450,male,44.07,2,1,T54177,14.9204,C131,C,4,0,MiddleAged,Medium,1
+451,1,3,Passenger_451,female,36.93,0,0,T10305,13.8693,Unknown,Q,1,1,MiddleAged,Medium,0
+452,0,3,Passenger_452,female,58.73,3,2,T33646,25.0922,C140,C,6,0,MiddleAged,High,1
+453,0,3,Passenger_453,female,48.7,0,2,T93838,2.4166,Unknown,C,3,0,MiddleAged,Low,0
+454,1,3,Passenger_454,male,53.96,1,0,T77126,49.9608,Unknown,C,2,0,MiddleAged,Very High,0
+455,0,2,Passenger_455,female,6.86,0,0,T41430,23.8,Unknown,S,1,1,Child,High,0
+456,0,2,Passenger_456,male,76.14,1,0,T69659,36.167,Unknown,S,2,0,Senior,High,0
+457,0,2,Passenger_457,male,67.14,0,0,T5158,52.0201,C100,C,1,1,Senior,Very High,1
+458,0,3,Passenger_458,male,64.49,0,1,T75236,26.4082,Unknown,S,2,0,Senior,High,0
+459,0,1,Passenger_459,female,65.91,0,0,T77067,43.2152,Unknown,S,1,1,Senior,High,0
+460,0,3,Passenger_460,male,74.64,0,0,T28738,34.6975,Unknown,S,1,1,Senior,High,0
+461,0,3,Passenger_461,male,43.72,1,0,T10879,14.0585,C81,S,2,0,MiddleAged,Medium,1
+462,1,2,Passenger_462,female,16.34,0,3,T6543,52.9517,Unknown,S,4,0,Teen,Very High,0
+463,1,3,Passenger_463,female,49.5,0,0,T48924,11.1723,Unknown,C,1,1,MiddleAged,Medium,0
+464,0,3,Passenger_464,male,40.21,1,0,T43348,27.0974,C174,Q,2,0,MiddleAged,High,1
+465,1,3,Passenger_465,male,59.14,0,0,T85117,43.7777,Unknown,C,1,1,MiddleAged,High,0
+466,0,3,Passenger_466,female,41.91,3,4,T37679,15.2433,Unknown,C,8,0,MiddleAged,Medium,0
+467,0,2,Passenger_467,male,5.85,1,1,T80118,11.5404,Unknown,S,3,0,Child,Medium,0
+468,1,2,Passenger_468,male,29.94,0,0,T44888,19.6792,Unknown,S,1,1,YoungAdult,Medium,0
+469,0,3,Passenger_469,male,40.21,1,0,T31276,54.5135,C89,S,2,0,MiddleAged,Very High,1
+470,1,3,Passenger_470,female,46.92,0,0,T5799,85.0606,C161,S,1,1,MiddleAged,Very High,1
+471,0,1,Passenger_471,female,33.06,0,0,T91627,25.2045,Unknown,S,1,1,YoungAdult,High,0
+472,1,3,Passenger_472,female,21.8,0,0,T94770,34.6602,Unknown,S,1,1,YoungAdult,High,0
+473,0,3,Passenger_473,female,29.73,0,2,T91141,74.7478,Unknown,S,3,0,YoungAdult,Very High,0
+474,1,3,Passenger_474,male,71.67,1,0,T61558,3.3199,Unknown,S,2,0,Senior,Low,0
+475,0,1,Passenger_475,male,53.45,2,1,T37534,8.4502,Unknown,Q,4,0,MiddleAged,Low,0
+476,1,3,Passenger_476,male,63.08,0,0,T32668,39.4908,C78,S,1,1,Senior,High,1
+477,0,3,Passenger_477,male,36.57,0,0,T5111,55.5463,Unknown,S,1,1,MiddleAged,Very High,0
+478,0,1,Passenger_478,male,50.57,3,0,T25686,62.2436,Unknown,S,4,0,MiddleAged,Very High,0
+479,1,1,Passenger_479,female,20.17,0,0,T73551,17.1625,C179,S,1,1,YoungAdult,Medium,1
+480,0,3,Passenger_480,male,56.55,0,0,T73392,2.9947,C187,S,1,1,MiddleAged,Low,1
+481,1,1,Passenger_481,female,34.44,0,0,T17490,18.4277,Unknown,S,1,1,YoungAdult,Medium,0
+482,1,3,Passenger_482,male,35.63,1,0,T36194,8.3942,C13,S,2,0,MiddleAged,Low,1
+483,0,3,Passenger_483,male,52.09,0,0,T15497,11.0137,Unknown,Q,1,1,MiddleAged,Medium,0
+484,1,2,Passenger_484,male,74.93,1,0,T54516,47.3467,Unknown,S,2,0,Senior,Very High,0
+485,0,3,Passenger_485,male,5.49,1,6,T89730,2.513,Unknown,C,8,0,Child,Low,0
+486,1,2,Passenger_486,female,66.05,0,0,T45104,56.2505,Unknown,C,1,1,Senior,Very High,0
+487,0,3,Passenger_487,male,23.67,0,1,T6316,17.8572,Unknown,S,2,0,YoungAdult,Medium,0
+488,0,2,Passenger_488,male,35.74,1,0,T39130,29.008,C116,S,2,0,MiddleAged,High,1
+489,1,3,Passenger_489,male,2.14,0,1,T71229,3.0057,C57,S,2,0,Child,Low,1
+490,1,1,Passenger_490,male,24.36,1,0,T30954,13.1687,Unknown,S,2,0,YoungAdult,Medium,0
+491,0,2,Passenger_491,male,40.41,2,1,T22652,3.0074,Unknown,S,4,0,MiddleAged,Low,0
+492,1,3,Passenger_492,female,46.62,0,0,T15178,104.2635,Unknown,C,1,1,MiddleAged,Very High,0
+493,0,2,Passenger_493,female,39.49,1,0,T52163,52.6855,Unknown,S,2,0,MiddleAged,Very High,0
+494,0,3,Passenger_494,male,40.21,1,0,T15751,19.6962,C40,Q,2,0,MiddleAged,Medium,1
+495,0,2,Passenger_495,female,8.79,1,0,T66961,8.0989,Unknown,C,2,0,Child,Low,0
+496,0,3,Passenger_496,male,61.25,0,0,T4044,86.7161,Unknown,Q,1,1,Senior,Very High,0
+497,0,1,Passenger_497,male,33.01,0,0,T64165,13.5201,Unknown,S,1,1,YoungAdult,Medium,0
+498,0,3,Passenger_498,male,52.55,0,0,T12480,5.6168,Unknown,Q,1,1,MiddleAged,Low,0
+499,1,3,Passenger_499,male,21.11,0,1,T66439,26.5023,Unknown,S,2,0,YoungAdult,High,0
+500,1,1,Passenger_500,male,13.1,0,0,T44874,92.1081,Unknown,S,1,1,Teen,Very High,0
+501,1,1,Passenger_501,male,13.17,1,0,T67775,0.1228,Unknown,C,2,0,Teen,Low,0
+502,0,1,Passenger_502,male,40.11,0,0,T7566,8.7031,Unknown,S,1,1,MiddleAged,Low,0
+503,0,3,Passenger_503,male,40.21,0,0,T86311,89.2117,Unknown,S,1,1,MiddleAged,Very High,0
+504,1,2,Passenger_504,male,53.27,0,0,T54149,6.0044,Unknown,S,1,1,MiddleAged,Low,0
+505,1,3,Passenger_505,female,70.58,1,0,T4006,3.8459,C25,S,2,0,Senior,Low,1
+506,0,2,Passenger_506,male,65.2,0,2,T73561,27.021,C180,S,3,0,Senior,High,1
+507,1,2,Passenger_507,male,54.94,0,1,T20423,63.3399,C125,S,2,0,MiddleAged,Very High,1
+508,1,3,Passenger_508,male,9.19,0,1,T91710,20.7483,Unknown,S,2,0,Child,Medium,0
+509,1,3,Passenger_509,male,23.42,1,0,T93199,166.8723,Unknown,S,2,0,YoungAdult,Very High,0
+510,1,1,Passenger_510,male,25.06,0,1,T34952,36.3792,Unknown,Q,2,0,YoungAdult,High,0
+511,0,1,Passenger_511,male,20.3,0,0,T28326,2.4628,C21,S,1,1,YoungAdult,Low,1
+512,0,1,Passenger_512,male,41.39,3,0,T32139,158.0207,Unknown,C,4,0,MiddleAged,Very High,0
+513,1,3,Passenger_513,male,43.03,1,0,T63103,16.7702,Unknown,Q,2,0,MiddleAged,Medium,0
+514,1,3,Passenger_514,male,28.81,3,0,T61857,10.8428,Unknown,S,4,0,YoungAdult,Medium,0
+515,0,3,Passenger_515,male,28.56,0,0,T74638,26.1175,Unknown,S,1,1,YoungAdult,High,0
+516,0,3,Passenger_516,male,66.35,0,0,T73652,11.6111,Unknown,S,1,1,Senior,Medium,0
+517,0,3,Passenger_517,male,63.23,1,0,T13937,2.8936,Unknown,S,2,0,Senior,Low,0
+518,1,3,Passenger_518,male,24.9,0,0,T31161,0.0457,C68,S,1,1,YoungAdult,Low,1
+519,1,3,Passenger_519,female,73.14,1,0,T5383,19.1066,Unknown,S,2,0,Senior,Medium,0
+520,0,1,Passenger_520,male,76.24,0,0,T86856,58.0214,C33,S,1,1,Senior,Very High,1
+521,0,1,Passenger_521,male,26.41,0,0,T71043,27.1798,Unknown,S,1,1,YoungAdult,High,0
+522,0,2,Passenger_522,male,44.07,0,0,T15735,228.4821,C189,S,1,1,MiddleAged,Very High,1
+523,1,1,Passenger_523,female,33.06,0,1,T60919,10.8179,Unknown,Q,2,0,YoungAdult,Medium,0
+524,1,3,Passenger_524,male,75.31,0,0,T96249,10.5324,Unknown,S,1,1,Senior,Medium,0
+525,1,3,Passenger_525,male,70.16,0,0,T83055,5.5698,Unknown,Q,1,1,Senior,Low,0
+526,0,1,Passenger_526,male,40.11,4,0,T68561,5.7345,Unknown,Q,5,0,MiddleAged,Low,0
+527,0,1,Passenger_527,male,31.66,0,0,T86455,10.7435,Unknown,S,1,1,YoungAdult,Medium,0
+528,0,3,Passenger_528,male,44.45,0,1,T38622,50.3764,Unknown,S,2,0,MiddleAged,Very High,0
+529,0,3,Passenger_529,male,40.45,1,0,T39135,75.58,Unknown,C,2,0,MiddleAged,Very High,0
+530,1,2,Passenger_530,female,15.83,0,0,T36658,118.1559,Unknown,C,1,1,Teen,Very High,0
+531,1,3,Passenger_531,male,68.76,0,1,T85677,8.459,C90,S,2,0,Senior,Low,1
+532,1,1,Passenger_532,female,54.28,1,0,T30696,68.1963,C151,Q,2,0,MiddleAged,Very High,1
+533,1,1,Passenger_533,female,33.06,0,0,T4773,12.7321,Unknown,S,1,1,YoungAdult,Medium,0
+534,0,3,Passenger_534,male,40.21,1,0,T25956,3.8314,Unknown,S,2,0,MiddleAged,Low,0
+535,1,3,Passenger_535,male,59.97,1,0,T16819,65.2932,C74,S,2,0,MiddleAged,Very High,1
+536,1,1,Passenger_536,male,40.11,4,0,T2528,32.3485,Unknown,S,5,0,MiddleAged,High,0
+537,1,3,Passenger_537,male,49.0,0,0,T87491,5.76,Unknown,S,1,1,MiddleAged,Low,0
+538,0,3,Passenger_538,male,13.17,0,5,T45588,17.9783,Unknown,S,6,0,Teen,Medium,0
+539,0,3,Passenger_539,female,54.02,0,0,T71585,10.8363,Unknown,S,1,1,MiddleAged,Medium,0
+540,0,3,Passenger_540,female,46.62,0,0,T21511,42.7143,Unknown,S,1,1,MiddleAged,High,0
+541,1,3,Passenger_541,male,55.64,1,0,T11119,19.3302,Unknown,C,2,0,MiddleAged,Medium,0
+542,0,3,Passenger_542,male,18.68,0,2,T76893,145.1404,Unknown,C,3,0,YoungAdult,Very High,0
+543,0,3,Passenger_543,female,9.76,0,1,T17167,1.8016,Unknown,S,2,0,Child,Low,0
+544,1,1,Passenger_544,female,33.06,1,0,T57503,14.0329,C36,S,2,0,YoungAdult,Medium,1
+545,1,1,Passenger_545,female,0.56,0,0,T88789,21.0428,Unknown,S,1,1,Child,Medium,0
+546,0,2,Passenger_546,male,57.61,0,0,T35889,22.3819,Unknown,S,1,1,MiddleAged,High,0
+547,0,3,Passenger_547,male,58.7,0,0,T46678,12.1505,Unknown,S,1,1,MiddleAged,Medium,0
+548,1,1,Passenger_548,male,41.39,1,0,T96334,41.8087,Unknown,S,2,0,MiddleAged,High,0
+549,0,3,Passenger_549,male,40.21,0,0,T61262,66.4774,Unknown,C,1,1,MiddleAged,Very High,0
+550,1,3,Passenger_550,male,40.21,1,0,T5681,89.3533,Unknown,Q,2,0,MiddleAged,Very High,0
+551,0,1,Passenger_551,male,1.92,0,2,T81291,52.3275,Unknown,S,3,0,Child,Very High,0
+552,1,3,Passenger_552,female,13.59,1,0,T67008,60.8319,Unknown,C,2,0,Teen,Very High,0
+553,0,2,Passenger_553,male,71.31,1,2,T99417,25.591,Unknown,S,4,0,Senior,High,0
+554,0,3,Passenger_554,male,19.63,0,0,T14690,55.9378,Unknown,S,1,1,YoungAdult,Very High,0
+555,1,1,Passenger_555,male,40.11,0,0,T26912,11.5742,Unknown,S,1,1,MiddleAged,Medium,0
+556,0,3,Passenger_556,male,8.79,0,0,T7473,16.2654,Unknown,S,1,1,Child,Medium,0
+557,0,3,Passenger_557,male,18.1,1,0,T42298,12.1963,Unknown,S,2,0,YoungAdult,Medium,0
+558,0,3,Passenger_558,male,41.73,0,0,T19669,20.1587,Unknown,C,1,1,MiddleAged,Medium,0
+559,1,3,Passenger_559,female,48.78,0,0,T82998,10.7611,Unknown,C,1,1,MiddleAged,Medium,0
+560,1,3,Passenger_560,male,19.93,0,0,T21943,104.3199,C86,C,1,1,YoungAdult,Very High,1
+561,1,3,Passenger_561,male,5.0,0,0,T39785,12.0062,Unknown,C,1,1,Child,Medium,0
+562,0,3,Passenger_562,male,31.53,0,1,T64427,3.3021,Unknown,Q,2,0,YoungAdult,Low,0
+563,0,3,Passenger_563,female,19.04,0,0,T63001,23.9447,Unknown,S,1,1,YoungAdult,High,0
+564,0,1,Passenger_564,female,17.88,0,0,T62724,1.8814,Unknown,S,1,1,Teen,Low,0
+565,0,3,Passenger_565,female,76.81,1,0,T11832,3.7486,Unknown,S,2,0,Senior,Low,0
+566,0,3,Passenger_566,male,40.21,0,2,T6385,7.9257,Unknown,S,3,0,MiddleAged,Low,0
+567,0,3,Passenger_567,male,44.73,0,0,T96898,19.9768,Unknown,S,1,1,MiddleAged,Medium,0
+568,0,1,Passenger_568,male,33.5,3,0,T15708,18.1708,C28,S,4,0,YoungAdult,Medium,1
+569,1,3,Passenger_569,male,34.54,1,0,T59600,51.4527,Unknown,S,2,0,YoungAdult,Very High,0
+570,0,2,Passenger_570,female,43.46,2,0,T24438,43.0418,Unknown,S,3,0,MiddleAged,High,0
+571,0,3,Passenger_571,male,55.84,0,3,T83747,17.7818,C18,C,4,0,MiddleAged,Medium,1
+572,1,1,Passenger_572,female,33.06,0,0,T81107,12.9927,C121,S,1,1,YoungAdult,Medium,1
+573,0,3,Passenger_573,female,14.07,0,0,T61062,12.1755,Unknown,S,1,1,Teen,Medium,0
+574,1,3,Passenger_574,male,40.21,1,0,T66428,47.5904,Unknown,S,2,0,MiddleAged,Very High,0
+575,1,1,Passenger_575,female,33.19,0,0,T87843,1.7113,C177,S,1,1,YoungAdult,Low,1
+576,1,3,Passenger_576,male,69.69,0,2,T12002,0.4129,Unknown,S,3,0,Senior,Low,0
+577,0,2,Passenger_577,male,50.66,0,0,T37153,50.7969,Unknown,S,1,1,MiddleAged,Very High,0
+578,1,3,Passenger_578,male,40.21,0,0,T23440,20.7505,C78,S,1,1,MiddleAged,Medium,1
+579,0,3,Passenger_579,male,40.21,0,0,T68501,4.4888,Unknown,S,1,1,MiddleAged,Low,0
+580,0,3,Passenger_580,male,48.61,0,0,T33556,8.5958,Unknown,S,1,1,MiddleAged,Low,0
+581,0,3,Passenger_581,male,9.73,0,1,T68963,86.262,Unknown,S,2,0,Child,Very High,0
+582,1,3,Passenger_582,male,27.24,0,0,T91725,62.8022,Unknown,S,1,1,YoungAdult,Very High,0
+583,0,2,Passenger_583,male,44.07,3,0,T91674,39.5883,C54,S,4,0,MiddleAged,High,1
+584,0,2,Passenger_584,male,55.49,1,2,T7563,21.0629,Unknown,S,4,0,MiddleAged,Medium,0
+585,1,3,Passenger_585,male,16.82,2,0,T80923,23.5086,C23,Q,3,0,Teen,High,1
+586,0,3,Passenger_586,male,31.59,1,0,T6840,118.3587,Unknown,Q,2,0,YoungAdult,Very High,0
+587,0,3,Passenger_587,male,40.21,0,0,T16154,107.9893,Unknown,S,1,1,MiddleAged,Very High,0
+588,0,3,Passenger_588,female,46.62,0,4,T25194,7.7573,Unknown,S,5,0,MiddleAged,Low,0
+589,0,2,Passenger_589,female,40.82,0,0,T66020,53.33,Unknown,S,1,1,MiddleAged,Very High,0
+590,0,3,Passenger_590,female,33.77,0,0,T47861,7.0305,C62,S,1,1,YoungAdult,Low,1
+591,0,1,Passenger_591,female,1.84,0,0,T23448,7.6867,Unknown,S,1,1,Child,Low,0
+592,1,3,Passenger_592,male,40.21,0,0,T97460,36.0736,Unknown,S,1,1,MiddleAged,High,0
+593,0,1,Passenger_593,female,5.9,0,0,T24528,16.6143,Unknown,S,1,1,Child,Medium,0
+594,0,2,Passenger_594,male,38.15,0,0,T30402,85.8102,C138,S,1,1,MiddleAged,Very High,1
+595,1,2,Passenger_595,male,45.03,0,0,T5352,2.9831,Unknown,S,1,1,MiddleAged,Low,0
+596,0,2,Passenger_596,female,50.42,0,0,T1184,22.927,Unknown,S,1,1,MiddleAged,High,0
+597,1,3,Passenger_597,male,55.22,1,0,T11384,80.2373,Unknown,S,2,0,MiddleAged,Very High,0
+598,0,2,Passenger_598,female,38.97,0,1,T15319,75.0269,Unknown,S,2,0,MiddleAged,Very High,0
+599,0,2,Passenger_599,female,1.19,0,2,T21449,5.4474,Unknown,S,3,0,Child,Low,0
+600,0,1,Passenger_600,female,57.99,0,0,T57333,14.6148,Unknown,S,1,1,MiddleAged,Medium,0
+601,0,2,Passenger_601,female,43.04,0,0,T42205,30.8888,C17,S,1,1,MiddleAged,High,1
+602,0,1,Passenger_602,male,66.95,0,0,T11426,5.5563,Unknown,S,1,1,Senior,Low,0
+603,0,1,Passenger_603,male,65.78,0,0,T8504,110.1668,Unknown,S,1,1,Senior,Very High,0
+604,0,3,Passenger_604,male,40.21,0,1,T57578,78.7891,Unknown,S,2,0,MiddleAged,Very High,0
+605,0,3,Passenger_605,male,39.01,0,0,T59209,20.331400000000002,Unknown,S,1,1,MiddleAged,Medium,0
+606,0,3,Passenger_606,male,40.21,2,0,T34368,4.1327,C105,S,3,0,MiddleAged,Low,1
+607,0,3,Passenger_607,female,46.62,2,1,T53185,2.8569,Unknown,S,4,0,MiddleAged,Low,0
+608,0,2,Passenger_608,female,36.32,0,0,T98630,76.8571,Unknown,C,1,1,MiddleAged,Very High,0
+609,0,3,Passenger_609,male,15.0,0,0,T81221,6.8866,Unknown,Q,1,1,Teen,Low,0
+610,1,3,Passenger_610,male,68.46,1,0,T9724,17.227,Unknown,Q,2,0,Senior,Medium,0
+611,0,3,Passenger_611,male,70.65,0,0,T6084,19.064,Unknown,S,1,1,Senior,Medium,0
+612,1,1,Passenger_612,male,37.52,0,0,T35810,29.2423,Unknown,Q,1,1,MiddleAged,High,0
+613,1,2,Passenger_613,female,6.43,0,1,T83277,2.382,Unknown,S,2,0,Child,Low,0
+614,0,2,Passenger_614,male,31.27,2,1,T83297,8.2292,Unknown,S,4,0,YoungAdult,Low,0
+615,1,2,Passenger_615,male,64.36,0,0,T79872,85.785,Unknown,S,1,1,Senior,Very High,0
+616,1,3,Passenger_616,male,72.18,0,2,T21872,76.4939,Unknown,C,3,0,Senior,Very High,0
+617,0,3,Passenger_617,male,16.6,1,0,T79950,48.6404,C10,S,2,0,Teen,Very High,1
+618,0,3,Passenger_618,male,5.73,0,1,T71333,0.6269,Unknown,C,2,0,Child,Low,0
+619,1,3,Passenger_619,male,70.24,0,0,T69843,12.6726,Unknown,S,1,1,Senior,Medium,0
+620,1,3,Passenger_620,male,31.4,3,2,T99104,31.64,Unknown,S,6,0,YoungAdult,High,0
+621,0,3,Passenger_621,male,40.21,0,2,T3596,10.2991,Unknown,S,3,0,MiddleAged,Medium,0
+622,0,3,Passenger_622,male,77.46,0,0,T18167,76.9076,Unknown,S,1,1,Senior,Very High,0
+623,0,1,Passenger_623,female,33.06,0,2,T88844,32.1542,Unknown,S,3,0,YoungAdult,High,0
+624,0,1,Passenger_624,male,52.01,0,1,T90751,2.3879,C41,S,2,0,MiddleAged,Low,1
+625,1,1,Passenger_625,male,6.3,0,1,T78331,76.7026,Unknown,S,2,0,Child,Very High,0
+626,0,3,Passenger_626,male,30.29,0,0,T81520,101.2654,Unknown,S,1,1,YoungAdult,Very High,0
+627,0,3,Passenger_627,female,64.38,0,1,T59326,2.5887,Unknown,S,2,0,Senior,Low,0
+628,1,2,Passenger_628,male,34.9,1,1,T78670,24.3218,Unknown,C,3,0,YoungAdult,High,0
+629,0,3,Passenger_629,female,79.78,0,0,T11782,11.5678,Unknown,S,1,1,Senior,Medium,0
+630,0,1,Passenger_630,male,44.9,0,2,T43002,15.9668,Unknown,S,3,0,MiddleAged,Medium,0
+631,1,3,Passenger_631,male,25.96,0,0,T88187,6.3368,Unknown,S,1,1,YoungAdult,Low,0
+632,1,2,Passenger_632,male,44.07,1,0,T25022,27.6135,C101,S,2,0,MiddleAged,High,1
+633,0,1,Passenger_633,male,40.11,0,0,T85458,101.427,Unknown,Q,1,1,MiddleAged,Very High,0
+634,0,3,Passenger_634,female,30.05,0,0,T15618,22.378,Unknown,C,1,1,YoungAdult,High,0
+635,0,2,Passenger_635,male,5.87,0,0,T18245,2.7697,C53,S,1,1,Child,Low,1
+636,0,2,Passenger_636,male,29.82,0,0,T84796,30.9628,Unknown,S,1,1,YoungAdult,High,0
+637,0,2,Passenger_637,male,37.35,0,2,T11027,13.3073,C151,C,3,0,MiddleAged,Medium,1
+638,0,3,Passenger_638,male,40.21,1,0,T14986,61.9975,Unknown,C,2,0,MiddleAged,Very High,0
+639,0,3,Passenger_639,male,40.21,0,0,T4526,18.2515,Unknown,C,1,1,MiddleAged,Medium,0
+640,0,2,Passenger_640,male,56.82,0,0,T92797,6.8555,C151,C,1,1,MiddleAged,Low,1
+641,0,3,Passenger_641,female,46.62,0,0,T45361,6.7868,Unknown,S,1,1,MiddleAged,Low,0
+642,0,3,Passenger_642,male,17.73,1,2,T68158,46.8582,Unknown,S,4,0,Teen,Very High,0
+643,0,2,Passenger_643,male,53.07,0,0,T39286,9.8779,C144,S,1,1,MiddleAged,Medium,1
+644,0,2,Passenger_644,female,38.93,0,1,T30533,46.647,Unknown,S,2,0,MiddleAged,Very High,0
+645,0,1,Passenger_645,male,40.11,0,0,T19316,7.377,Unknown,S,1,1,MiddleAged,Low,0
+646,1,1,Passenger_646,female,33.06,0,0,T9699,12.4207,Unknown,S,1,1,YoungAdult,Medium,0
+647,0,3,Passenger_647,male,40.21,0,0,T80491,20.0448,Unknown,S,1,1,MiddleAged,Medium,0
+648,1,1,Passenger_648,female,44.05,0,0,T98079,91.7807,C150,S,1,1,MiddleAged,Very High,1
+649,1,3,Passenger_649,male,5.69,0,0,T59465,85.8978,Unknown,S,1,1,Child,Very High,0
+650,0,3,Passenger_650,female,61.41,0,0,T17673,7.4167,C65,S,1,1,Senior,Low,1
+651,0,1,Passenger_651,female,46.86,0,0,T24395,14.1923,Unknown,S,1,1,MiddleAged,Medium,0
+652,0,3,Passenger_652,male,62.64,0,1,T24707,5.178,Unknown,C,2,0,Senior,Low,0
+653,0,2,Passenger_653,female,38.97,0,0,T85749,22.8262,Unknown,C,1,1,MiddleAged,High,0
+654,1,3,Passenger_654,male,64.32,1,0,T76937,19.7525,Unknown,S,2,0,Senior,Medium,0
+655,0,3,Passenger_655,male,41.63,3,0,T87732,73.9269,Unknown,S,4,0,MiddleAged,Very High,0
+656,0,3,Passenger_656,male,11.57,3,0,T57416,85.0988,Unknown,S,4,0,Child,Very High,0
+657,0,3,Passenger_657,male,53.82,1,1,T92512,15.4818,C153,S,3,0,MiddleAged,Medium,1
+658,0,1,Passenger_658,male,49.79,0,0,T9758,21.6563,C17,S,1,1,MiddleAged,High,1
+659,1,3,Passenger_659,male,59.48,1,0,T68009,72.5004,Unknown,S,2,0,MiddleAged,Very High,0
+660,0,3,Passenger_660,male,13.92,0,2,T14281,52.5937,Unknown,C,3,0,Teen,Very High,0
+661,0,3,Passenger_661,female,15.92,0,0,T33548,0.1172,C191,S,1,1,Teen,Low,1
+662,1,3,Passenger_662,female,71.28,0,0,T19371,12.344,C23,S,1,1,Senior,Medium,1
+663,0,3,Passenger_663,male,60.1,0,0,T94899,17.5293,Unknown,S,1,1,Senior,Medium,0
+664,0,1,Passenger_664,male,72.69,1,0,T78593,8.3519,C62,S,2,0,Senior,Low,1
+665,0,1,Passenger_665,male,60.79,0,1,T20644,7.1235,C136,S,2,0,Senior,Low,1
+666,0,3,Passenger_666,male,40.21,0,1,T94659,1.2325,C164,C,2,0,MiddleAged,Low,1
+667,0,2,Passenger_667,male,52.47,2,2,T24874,32.9938,C184,S,5,0,MiddleAged,High,1
+668,0,3,Passenger_668,male,71.17,0,0,T89659,20.331400000000002,Unknown,S,1,1,Senior,Medium,0
+669,0,3,Passenger_669,male,46.47,0,0,T15281,1.7205,Unknown,S,1,1,MiddleAged,Low,0
+670,0,2,Passenger_670,female,50.74,1,0,T69787,8.4044,Unknown,S,2,0,MiddleAged,Low,0
+671,0,1,Passenger_671,male,40.11,0,0,T23289,51.8097,Unknown,S,1,1,MiddleAged,Very High,0
+672,1,3,Passenger_672,male,38.12,0,0,T6054,61.0271,C53,S,1,1,MiddleAged,Very High,1
+673,0,2,Passenger_673,male,44.07,0,0,T67846,21.1149,C27,S,1,1,MiddleAged,Medium,1
+674,0,3,Passenger_674,male,21.97,0,0,T95682,17.2152,Unknown,S,1,1,YoungAdult,Medium,0
+675,0,2,Passenger_675,male,16.5,1,0,T50769,121.9227,Unknown,C,2,0,Teen,Very High,0
+676,1,3,Passenger_676,male,25.38,0,1,T30312,7.1632,Unknown,S,2,0,YoungAdult,Low,0
+677,0,1,Passenger_677,male,19.62,0,1,T97517,7.7609,Unknown,S,2,0,YoungAdult,Low,0
+678,0,3,Passenger_678,male,17.51,0,0,T5257,11.044,Unknown,S,1,1,Teen,Medium,0
+679,1,3,Passenger_679,female,34.22,0,0,T16846,6.069,Unknown,S,1,1,YoungAdult,Low,0
+680,1,3,Passenger_680,female,72.66,3,0,T23483,15.2644,Unknown,S,4,0,Senior,Medium,0
+681,1,1,Passenger_681,male,40.76,0,1,T27558,77.3523,Unknown,S,2,0,MiddleAged,Very High,0
+682,0,3,Passenger_682,male,15.36,0,0,T44188,30.5733,Unknown,S,1,1,Teen,High,0
+683,0,3,Passenger_683,male,6.53,0,0,T14012,16.99,C38,S,1,1,Child,Medium,1
+684,1,1,Passenger_684,male,40.11,1,0,T34236,87.179,Unknown,S,2,0,MiddleAged,Very High,0
+685,1,1,Passenger_685,male,30.87,2,0,T46076,1.5897,Unknown,S,3,0,YoungAdult,Low,0
+686,0,1,Passenger_686,male,65.82,0,0,T49402,7.5543,Unknown,S,1,1,Senior,Low,0
+687,0,3,Passenger_687,male,52.9,0,1,T95467,26.7025,Unknown,C,2,0,MiddleAged,High,0
+688,0,3,Passenger_688,male,40.21,0,0,T33076,30.5903,Unknown,Q,1,1,MiddleAged,High,0
+689,1,3,Passenger_689,male,22.05,1,0,T81337,1.2916,Unknown,S,2,0,YoungAdult,Low,0
+690,0,1,Passenger_690,female,55.51,0,0,T76164,16.5089,C22,S,1,1,MiddleAged,Medium,1
+691,0,2,Passenger_691,female,38.97,1,0,T75264,33.517,Unknown,S,2,0,MiddleAged,High,0
+692,0,3,Passenger_692,female,75.15,0,1,T18335,38.322,Unknown,S,2,0,Senior,High,0
+693,0,3,Passenger_693,male,51.06,1,0,T44773,32.5279,Unknown,S,2,0,MiddleAged,High,0
+694,0,3,Passenger_694,female,26.23,0,1,T53158,12.3677,Unknown,C,2,0,YoungAdult,Medium,0
+695,0,1,Passenger_695,male,21.85,0,0,T29570,3.142,Unknown,S,1,1,YoungAdult,Low,0
+696,0,3,Passenger_696,female,15.6,0,0,T88995,17.8261,C85,Q,1,1,Teen,Medium,1
+697,0,2,Passenger_697,male,44.07,0,0,T41658,4.4106,Unknown,S,1,1,MiddleAged,Low,0
+698,0,2,Passenger_698,female,17.81,1,0,T60184,94.3776,Unknown,S,2,0,Teen,Very High,0
+699,0,3,Passenger_699,male,47.79,1,0,T73613,20.6298,C70,C,2,0,MiddleAged,Medium,1
+700,0,3,Passenger_700,female,21.46,0,0,T59194,12.2125,C177,S,1,1,YoungAdult,Medium,1
+701,0,3,Passenger_701,female,53.09,0,0,T68507,46.5195,Unknown,S,1,1,MiddleAged,Very High,0
+702,0,1,Passenger_702,male,65.27,0,0,T34959,22.0497,Unknown,C,1,1,Senior,High,0
+703,0,1,Passenger_703,male,62.33,1,1,T54072,11.8756,Unknown,S,3,0,Senior,Medium,0
+704,0,3,Passenger_704,female,46.62,0,2,T46588,53.4765,Unknown,C,3,0,MiddleAged,Very High,0
+705,0,3,Passenger_705,male,15.34,0,0,T41533,64.5936,C77,C,1,1,Teen,Very High,1
+706,1,2,Passenger_706,female,7.44,0,2,T69582,35.7702,Unknown,Q,3,0,Child,High,0
+707,0,1,Passenger_707,male,56.04,0,0,T62743,1.5393,Unknown,S,1,1,MiddleAged,Low,0
+708,1,1,Passenger_708,male,29.72,0,0,T45518,26.7346,C170,S,1,1,YoungAdult,High,1
+709,0,3,Passenger_709,male,40.21,0,1,T13703,46.1101,C144,S,2,0,MiddleAged,Very High,1
+710,1,1,Passenger_710,male,2.88,0,0,T50456,4.6965,Unknown,S,1,1,Child,Low,0
+711,1,2,Passenger_711,female,21.06,4,0,T56491,8.3085,C60,S,5,0,YoungAdult,Low,1
+712,0,1,Passenger_712,male,3.08,0,0,T9043,68.5208,Unknown,S,1,1,Child,Very High,0
+713,0,2,Passenger_713,male,70.38,0,1,T69340,0.6505,Unknown,S,2,0,Senior,Low,0
+714,0,1,Passenger_714,male,19.77,0,1,T11176,44.7124,C191,C,2,0,YoungAdult,High,1
+715,0,3,Passenger_715,male,40.21,1,0,T4936,20.5447,Unknown,C,2,0,MiddleAged,Medium,0
+716,1,1,Passenger_716,female,3.5,0,0,T32174,18.9435,Unknown,S,1,1,Child,Medium,0
+717,1,3,Passenger_717,female,46.62,0,0,T83632,0.2279,Unknown,S,1,1,MiddleAged,Low,0
+718,1,1,Passenger_718,male,26.11,0,0,T89768,54.7667,Unknown,S,1,1,YoungAdult,Very High,0
+719,0,3,Passenger_719,female,71.87,0,0,T26909,14.2724,Unknown,S,1,1,Senior,Medium,0
+720,1,3,Passenger_720,female,46.62,0,1,T45158,24.9022,Unknown,S,2,0,MiddleAged,High,0
+721,1,3,Passenger_721,male,26.29,1,0,T9366,36.1931,Unknown,S,2,0,YoungAdult,High,0
+722,0,3,Passenger_722,female,72.12,1,0,T86125,38.8089,Unknown,S,2,0,Senior,High,0
+723,0,2,Passenger_723,male,79.69,0,0,T55337,99.9396,Unknown,S,1,1,Senior,Very High,0
+724,1,2,Passenger_724,male,66.1,0,0,T60331,24.2521,C134,S,1,1,Senior,High,1
+725,0,3,Passenger_725,female,67.65,1,2,T63197,16.3315,Unknown,S,4,0,Senior,Medium,0
+726,1,3,Passenger_726,male,20.22,0,0,T73042,98.3261,Unknown,Q,1,1,YoungAdult,Very High,0
+727,0,3,Passenger_727,female,46.31,1,0,T51924,32.881,Unknown,S,2,0,MiddleAged,High,0
+728,1,3,Passenger_728,female,46.62,0,0,T29842,11.3292,Unknown,S,1,1,MiddleAged,Medium,0
+729,0,3,Passenger_729,male,7.96,2,0,T18458,4.3266,C148,S,3,0,Child,Low,1
+730,0,3,Passenger_730,female,79.91,1,0,T88367,59.1576,Unknown,S,2,0,Senior,Very High,0
+731,0,1,Passenger_731,male,26.4,2,0,T66382,14.3905,Unknown,S,3,0,YoungAdult,Medium,0
+732,1,3,Passenger_732,male,59.96,0,0,T75319,34.5661,Unknown,S,1,1,MiddleAged,High,0
+733,1,3,Passenger_733,male,40.21,0,0,T12170,20.3654,Unknown,S,1,1,MiddleAged,Medium,0
+734,0,1,Passenger_734,female,33.06,2,0,T81145,7.0978,Unknown,S,3,0,YoungAdult,Low,0
+735,0,3,Passenger_735,male,79.81,0,0,T45942,29.4565,C57,C,1,1,Senior,High,1
+736,1,1,Passenger_736,male,19.62,0,2,T89571,2.0033,Unknown,S,3,0,YoungAdult,Low,0
+737,0,3,Passenger_737,female,46.62,1,0,T17208,17.066,Unknown,S,2,0,MiddleAged,Medium,0
+738,1,1,Passenger_738,female,33.13,1,0,T36178,25.3124,Unknown,C,2,0,YoungAdult,High,0
+739,0,3,Passenger_739,female,10.75,2,0,T80172,18.3291,Unknown,S,3,0,Child,Medium,0
+740,0,3,Passenger_740,male,2.19,0,0,T10039,44.1919,Unknown,C,1,1,Child,High,0
+741,0,2,Passenger_741,male,29.09,1,0,T15990,56.3144,Unknown,Q,2,0,YoungAdult,Very High,0
+742,0,3,Passenger_742,male,40.21,1,0,T7441,47.203,Unknown,S,2,0,MiddleAged,Very High,0
+743,1,3,Passenger_743,female,45.47,0,0,T75221,1.2668,Unknown,Q,1,1,MiddleAged,Low,0
+744,0,3,Passenger_744,male,25.3,0,0,T80314,6.9066,Unknown,C,1,1,YoungAdult,Low,0
+745,0,1,Passenger_745,male,52.49,0,0,T46959,24.6138,Unknown,Q,1,1,MiddleAged,High,0
+746,1,2,Passenger_746,female,18.87,0,1,T27862,87.3803,Unknown,S,2,0,YoungAdult,Very High,0
+747,0,1,Passenger_747,male,1.54,4,0,T28273,57.6495,Unknown,S,5,0,Child,Very High,0
+748,0,3,Passenger_748,female,61.24,0,0,T94949,59.1536,C46,C,1,1,Senior,Very High,1
+749,1,3,Passenger_749,female,46.62,1,0,T43500,11.5606,C143,S,2,0,MiddleAged,Medium,1
+750,1,3,Passenger_750,female,61.08,4,0,T4956,17.9568,Unknown,S,5,0,Senior,Medium,0
+751,0,3,Passenger_751,male,3.5,0,0,T73089,20.3588,Unknown,S,1,1,Child,Medium,0
+752,1,3,Passenger_752,male,40.21,1,1,T89789,5.4793,Unknown,S,3,0,MiddleAged,Low,0
+753,1,3,Passenger_753,female,49.71,0,0,T90451,1.01,Unknown,S,1,1,MiddleAged,Low,0
+754,0,1,Passenger_754,female,33.06,1,1,T3365,93.9403,C168,S,3,0,YoungAdult,Very High,1
+755,0,3,Passenger_755,female,50.12,0,0,T73204,8.812,Unknown,Q,1,1,MiddleAged,Low,0
+756,1,1,Passenger_756,male,69.21,2,0,T6000,8.7798,C34,S,3,0,Senior,Low,1
+757,1,3,Passenger_757,female,47.12,0,0,T58072,2.786,Unknown,Q,1,1,MiddleAged,Low,0
+758,0,3,Passenger_758,female,46.64,0,2,T53499,84.4213,Unknown,Q,3,0,MiddleAged,Very High,0
+759,1,3,Passenger_759,female,79.26,1,0,T70211,27.74,Unknown,S,2,0,Senior,High,0
+760,1,1,Passenger_760,female,60.64,0,0,T13907,35.1912,C52,S,1,1,Senior,High,1
+761,0,2,Passenger_761,female,35.61,0,0,T18336,77.6199,Unknown,C,1,1,MiddleAged,Very High,0
+762,0,2,Passenger_762,male,56.71,0,0,T86220,13.5702,Unknown,S,1,1,MiddleAged,Medium,0
+763,0,2,Passenger_763,male,44.07,1,0,T94847,31.0899,Unknown,C,2,0,MiddleAged,High,0
+764,1,1,Passenger_764,male,18.62,0,2,T53331,1.2663,C51,S,3,0,YoungAdult,Low,1
+765,0,3,Passenger_765,male,40.21,0,2,T81672,6.6158,Unknown,S,3,0,MiddleAged,Low,0
+766,0,3,Passenger_766,male,74.28,0,0,T78755,56.938,Unknown,S,1,1,Senior,Very High,0
+767,1,2,Passenger_767,male,74.36,0,2,T69783,46.5831,Unknown,S,3,0,Senior,Very High,0
+768,1,2,Passenger_768,male,44.07,0,0,T70951,13.8167,C151,S,1,1,MiddleAged,Medium,1
+769,0,2,Passenger_769,male,42.4,0,0,T53509,15.133,C77,S,1,1,MiddleAged,Medium,1
+770,1,3,Passenger_770,male,17.25,0,0,T7472,24.4036,Unknown,C,1,1,Teen,High,0
+771,0,3,Passenger_771,female,79.65,0,0,T23380,0.0077,Unknown,S,1,1,Senior,Low,0
+772,1,3,Passenger_772,female,46.62,0,4,T28280,8.8344,Unknown,Q,5,0,MiddleAged,Low,0
+773,0,3,Passenger_773,male,52.1,1,0,T22859,7.4716,Unknown,S,2,0,MiddleAged,Low,0
+774,0,3,Passenger_774,female,64.43,0,0,T49402,9.2264,Unknown,C,1,1,Senior,Medium,0
+775,1,3,Passenger_775,male,57.32,0,0,T9262,52.4612,Unknown,S,1,1,MiddleAged,Very High,0
+776,0,1,Passenger_776,male,47.62,0,0,T12066,10.4976,Unknown,Q,1,1,MiddleAged,Medium,0
+777,0,3,Passenger_777,male,4.65,0,0,T16554,6.8032,Unknown,S,1,1,Child,Low,0
+778,1,1,Passenger_778,male,40.11,1,6,T8008,22.4547,Unknown,S,8,0,MiddleAged,High,0
+779,1,3,Passenger_779,female,54.11,0,1,T88851,64.2326,Unknown,Q,2,0,MiddleAged,Very High,0
+780,1,2,Passenger_780,female,54.33,0,1,T81799,8.8389,Unknown,S,2,0,MiddleAged,Low,0
+781,1,3,Passenger_781,male,30.1,0,0,T17238,2.6173,Unknown,S,1,1,YoungAdult,Low,0
+782,0,3,Passenger_782,male,75.36,1,0,T83025,14.1019,Unknown,S,2,0,Senior,Medium,0
+783,0,3,Passenger_783,male,13.72,0,0,T18153,44.0623,Unknown,C,1,1,Teen,High,0
+784,0,3,Passenger_784,male,40.23,0,0,T60353,25.6014,C183,S,1,1,MiddleAged,High,1
+785,0,2,Passenger_785,male,55.39,0,0,T53092,54.3085,Unknown,S,1,1,MiddleAged,Very High,0
+786,1,1,Passenger_786,male,55.89,4,0,T44152,102.6794,Unknown,C,5,0,MiddleAged,Very High,0
+787,0,2,Passenger_787,female,52.03,0,0,T50104,50.349,Unknown,C,1,1,MiddleAged,Very High,0
+788,0,1,Passenger_788,female,22.31,0,0,T25283,29.627,Unknown,S,1,1,YoungAdult,High,0
+789,0,3,Passenger_789,male,12.83,1,0,T47429,21.7574,Unknown,S,2,0,Teen,High,0
+790,1,2,Passenger_790,female,51.02,1,0,T78223,1.3086,Unknown,S,2,0,MiddleAged,Low,0
+791,0,3,Passenger_791,male,48.1,0,0,T89534,132.9759,Unknown,C,1,1,MiddleAged,Very High,0
+792,0,3,Passenger_792,male,14.68,1,2,T55957,15.4773,Unknown,C,4,0,Teen,Medium,0
+793,0,3,Passenger_793,male,56.53,1,0,T29887,5.2846,Unknown,S,2,0,MiddleAged,Low,0
+794,0,1,Passenger_794,male,36.63,0,1,T47172,35.1596,Unknown,S,2,0,MiddleAged,High,0
+795,0,3,Passenger_795,female,53.55,0,0,T5355,10.7033,Unknown,S,1,1,MiddleAged,Medium,0
+796,1,3,Passenger_796,male,40.21,0,0,T34701,28.2033,Unknown,S,1,1,MiddleAged,High,0
+797,1,3,Passenger_797,male,40.21,3,0,T42534,28.2799,C24,S,4,0,MiddleAged,High,1
+798,0,3,Passenger_798,female,1.92,1,1,T72442,18.8833,Unknown,S,3,0,Child,Medium,0
+799,1,3,Passenger_799,male,62.42,0,1,T62274,57.8756,Unknown,S,2,0,Senior,Very High,0
+800,1,1,Passenger_800,female,48.93,1,0,T79108,9.8509,Unknown,S,2,0,MiddleAged,Medium,0
+801,1,3,Passenger_801,male,56.09,0,0,T13279,19.0513,C114,S,1,1,MiddleAged,Medium,1
+802,0,2,Passenger_802,male,67.12,0,0,T44491,24.6888,Unknown,S,1,1,Senior,High,0
+803,0,1,Passenger_803,male,40.11,0,0,T77147,34.8649,Unknown,Q,1,1,MiddleAged,High,0
+804,0,2,Passenger_804,male,76.89,0,2,T9261,49.0351,Unknown,S,3,0,Senior,Very High,0
+805,0,1,Passenger_805,male,40.11,1,0,T5474,16.0707,Unknown,S,2,0,MiddleAged,Medium,0
+806,1,1,Passenger_806,female,33.06,0,0,T92414,33.2349,C66,Q,1,1,YoungAdult,High,1
+807,1,1,Passenger_807,male,32.39,1,0,T29390,5.2236,Unknown,S,2,0,YoungAdult,Low,0
+808,1,3,Passenger_808,female,12.63,0,0,T27925,86.3304,C61,S,1,1,Teen,Very High,1
+809,0,3,Passenger_809,female,46.62,0,0,T83174,15.4554,Unknown,S,1,1,MiddleAged,Medium,0
+810,0,3,Passenger_810,female,22.45,3,0,T60051,41.842,Unknown,C,4,0,YoungAdult,High,0
+811,1,2,Passenger_811,male,73.74,0,0,T90007,0.6576,Unknown,S,1,1,Senior,Low,0
+812,1,2,Passenger_812,male,46.82,0,0,T5787,7.3488,Unknown,C,1,1,MiddleAged,Low,0
+813,0,3,Passenger_813,male,47.59,0,0,T74398,21.3645,C179,S,1,1,MiddleAged,Medium,1
+814,1,2,Passenger_814,female,28.65,1,1,T59177,67.3858,Unknown,S,3,0,YoungAdult,Very High,0
+815,1,1,Passenger_815,male,40.11,0,0,T44724,23.9744,Unknown,C,1,1,MiddleAged,High,0
+816,0,3,Passenger_816,male,2.93,0,0,T11663,85.0372,C89,Q,1,1,Child,Very High,1
+817,0,1,Passenger_817,male,40.11,0,0,T17120,21.1602,Unknown,S,1,1,MiddleAged,Medium,0
+818,0,3,Passenger_818,male,40.21,0,0,T23740,21.5752,Unknown,C,1,1,MiddleAged,Medium,0
+819,0,3,Passenger_819,male,48.71,1,0,T3035,4.0815,Unknown,S,2,0,MiddleAged,Low,0
+820,0,1,Passenger_820,male,70.53,0,0,T58443,51.9299,Unknown,S,1,1,Senior,Very High,0
+821,1,1,Passenger_821,female,70.68,0,0,T68388,9.0766,Unknown,S,1,1,Senior,Low,0
+822,0,3,Passenger_822,male,52.86,0,4,T53335,73.559,Unknown,S,5,0,MiddleAged,Very High,0
+823,0,3,Passenger_823,male,17.21,0,0,T44315,77.3487,Unknown,S,1,1,Teen,Very High,0
+824,0,1,Passenger_824,male,40.11,2,0,T65165,91.8451,Unknown,S,3,0,MiddleAged,Very High,0
+825,0,3,Passenger_825,male,40.21,0,0,T47627,23.5024,Unknown,S,1,1,MiddleAged,High,0
+826,1,1,Passenger_826,male,40.11,4,0,T9303,36.1726,C35,S,5,0,MiddleAged,High,1
+827,0,3,Passenger_827,female,46.62,0,0,T50334,48.2369,Unknown,Q,1,1,MiddleAged,Very High,0
+828,0,3,Passenger_828,male,23.21,0,1,T56892,4.4937,Unknown,Q,2,0,YoungAdult,Low,0
+829,1,1,Passenger_829,female,64.29,1,0,T62196,29.398,Unknown,C,2,0,Senior,High,0
+830,0,1,Passenger_830,male,40.11,0,0,T66700,1.1168,Unknown,S,1,1,MiddleAged,Low,0
+831,0,1,Passenger_831,male,2.79,1,0,T40726,22.0253,Unknown,S,2,0,Child,High,0
+832,0,2,Passenger_832,female,71.83,4,0,T76751,5.3834,C58,C,5,0,Senior,Low,1
+833,0,1,Passenger_833,male,49.96,0,0,T50606,6.4647,C154,Q,1,1,MiddleAged,Low,1
+834,0,3,Passenger_834,male,40.21,0,0,T31694,14.5346,Unknown,S,1,1,MiddleAged,Medium,0
+835,0,1,Passenger_835,male,40.11,1,0,T32253,18.1249,Unknown,C,2,0,MiddleAged,Medium,0
+836,0,3,Passenger_836,male,40.21,0,0,T25230,31.231,Unknown,Q,1,1,MiddleAged,High,0
+837,1,3,Passenger_837,female,46.62,0,0,T54974,2.475,Unknown,C,1,1,MiddleAged,Low,0
+838,0,3,Passenger_838,male,27.09,0,2,T64545,22.4179,Unknown,S,3,0,YoungAdult,High,0
+839,0,3,Passenger_839,female,5.73,0,0,T17925,6.453,C114,S,1,1,Child,Low,1
+840,1,2,Passenger_840,female,78.04,1,1,T7033,27.3042,Unknown,S,3,0,Senior,High,0
+841,0,3,Passenger_841,male,65.43,0,1,T63461,32.463,C24,S,2,0,Senior,High,1
+842,1,3,Passenger_842,female,68.26,0,0,T3665,26.0329,Unknown,S,1,1,Senior,High,0
+843,0,2,Passenger_843,male,75.06,0,0,T28025,42.8973,Unknown,S,1,1,Senior,High,0
+844,1,1,Passenger_844,female,33.06,0,0,T24533,13.0843,Unknown,C,1,1,YoungAdult,Medium,0
+845,0,3,Passenger_845,male,31.09,0,0,T46897,46.356,Unknown,S,1,1,YoungAdult,Very High,0
+846,0,3,Passenger_846,female,6.05,1,0,T78661,18.1435,Unknown,S,2,0,Child,Medium,0
+847,0,1,Passenger_847,male,40.11,0,1,T21998,21.1842,Unknown,S,2,0,MiddleAged,Medium,0
+848,1,2,Passenger_848,male,44.07,1,2,T62248,33.4213,Unknown,S,4,0,MiddleAged,High,0
+849,0,2,Passenger_849,male,37.74,1,0,T24057,0.5929,Unknown,C,2,0,MiddleAged,Low,0
+850,0,3,Passenger_850,female,21.78,0,0,T80244,33.9616,Unknown,S,1,1,YoungAdult,High,0
+851,0,3,Passenger_851,male,8.44,0,0,T84608,30.8438,C196,C,1,1,Child,High,1
+852,1,3,Passenger_852,male,13.73,0,1,T71631,11.8669,Unknown,S,2,0,Teen,Medium,0
+853,0,1,Passenger_853,female,12.12,0,0,T98031,2.8704,Unknown,S,1,1,Teen,Low,0
+854,1,2,Passenger_854,female,38.97,1,0,T68173,3.0509,Unknown,S,2,0,MiddleAged,Low,0
+855,0,3,Passenger_855,female,60.84,1,0,T81206,82.1395,Unknown,S,2,0,Senior,Very High,0
+856,0,1,Passenger_856,female,33.06,0,0,T39734,37.4035,Unknown,S,1,1,YoungAdult,High,0
+857,0,2,Passenger_857,female,38.97,0,2,T63072,4.35,Unknown,S,3,0,MiddleAged,Low,0
+858,0,3,Passenger_858,female,22.56,2,0,T65175,14.1178,Unknown,S,3,0,YoungAdult,Medium,0
+859,0,1,Passenger_859,male,63.94,3,0,T64783,28.7255,Unknown,S,4,0,Senior,High,0
+860,0,3,Passenger_860,male,26.37,0,2,T95194,57.769,Unknown,C,3,0,YoungAdult,Very High,0
+861,1,1,Passenger_861,female,24.23,0,0,T71739,1.4286,Unknown,S,1,1,YoungAdult,Low,0
+862,0,1,Passenger_862,male,18.91,0,0,T88054,8.6405,Unknown,Q,1,1,YoungAdult,Low,0
+863,0,1,Passenger_863,male,10.72,3,0,T52042,70.5599,Unknown,S,4,0,Child,Very High,0
+864,0,3,Passenger_864,male,40.21,0,0,T53357,0.2946,Unknown,S,1,1,MiddleAged,Low,0
+865,0,3,Passenger_865,female,46.62,0,0,T9669,7.1966,Unknown,S,1,1,MiddleAged,Low,0
+866,0,3,Passenger_866,male,54.05,0,0,T68902,102.2327,Unknown,S,1,1,MiddleAged,Very High,0
+867,0,3,Passenger_867,male,5.38,0,0,T19910,30.4118,Unknown,S,1,1,Child,High,0
+868,0,1,Passenger_868,male,17.16,0,0,T57959,9.7077,Unknown,S,1,1,Teen,Medium,0
+869,1,3,Passenger_869,male,64.8,8,1,T97623,2.2189,Unknown,S,10,0,Senior,Low,0
+870,1,3,Passenger_870,male,12.09,0,1,T1366,0.9151,Unknown,C,2,0,Teen,Low,0
+871,0,3,Passenger_871,male,40.21,0,0,T49415,8.9824,Unknown,S,1,1,MiddleAged,Low,0
+872,0,1,Passenger_872,male,69.23,0,0,T10907,68.2471,Unknown,C,1,1,Senior,Very High,0
+873,1,3,Passenger_873,female,12.73,0,0,T96825,17.2066,Unknown,S,1,1,Teen,Medium,0
+874,0,1,Passenger_874,male,6.99,0,0,T33780,40.773,Unknown,S,1,1,Child,High,0
+875,0,2,Passenger_875,female,38.97,0,1,T58879,80.1446,Unknown,S,2,0,MiddleAged,Very High,0
+876,0,3,Passenger_876,female,24.47,0,0,T86159,16.7781,C114,S,1,1,YoungAdult,Medium,1
+877,1,3,Passenger_877,male,45.25,0,0,T36085,6.7936,Unknown,C,1,1,MiddleAged,Low,0
+878,1,2,Passenger_878,female,64.38,0,0,T66499,23.2955,Unknown,S,1,1,Senior,High,0
+879,0,2,Passenger_879,male,11.32,0,0,T21426,76.3801,Unknown,S,1,1,Child,Very High,0
+880,0,3,Passenger_880,female,46.62,3,0,T49197,52.2097,Unknown,S,4,0,MiddleAged,Very High,0
+881,0,3,Passenger_881,male,40.64,2,0,T8485,2.1791,Unknown,S,3,0,MiddleAged,Low,0
+882,1,3,Passenger_882,female,11.87,0,3,T50527,37.7445,Unknown,S,4,0,Child,High,0
+883,0,3,Passenger_883,male,40.21,0,1,T65600,27.1486,Unknown,C,2,0,MiddleAged,High,0
+884,0,3,Passenger_884,male,22.18,1,0,T99560,76.1648,C156,S,2,0,YoungAdult,Very High,1
+885,1,2,Passenger_885,male,39.23,0,0,T92005,4.181,C199,Q,1,1,MiddleAged,Low,1
+886,0,3,Passenger_886,female,6.95,1,2,T82439,24.4367,Unknown,C,4,0,Child,High,0
+887,1,2,Passenger_887,female,36.98,3,0,T69748,67.7055,C149,S,4,0,MiddleAged,Very High,1
+888,0,2,Passenger_888,male,24.79,0,0,T59528,16.8855,Unknown,S,1,1,YoungAdult,Medium,0
+889,0,3,Passenger_889,male,65.86,0,0,T28799,21.0486,Unknown,S,1,1,Senior,Medium,0
+890,0,1,Passenger_890,male,4.94,3,1,T47339,2.3381,Unknown,S,5,0,Child,Low,0
+891,1,3,Passenger_891,female,33.72,0,0,T17087,10.4297,Unknown,S,1,1,YoungAdult,Medium,0
